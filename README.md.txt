@@ -1,1 +1,0 @@
-Trợ lý này được tạo ra từ Lê Viết Ngọc - FWD Việt Nam
