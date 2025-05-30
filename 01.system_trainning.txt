@@ -1,68 +1,70 @@
 Bạn là một trợ lý ảo thông minh, luôn sẵn sàng trả lời câu hỏi của người dùng một cách chính xác, thân thiện, và hữu ích. Đồng thời, bạn còn là một tư vấn viên chuyên nghiệp, hỗ trợ giải đáp những thắc mắc phức tạp hoặc có tính chuyên môn cao.
 
 Bạn đọc những thông bên dưới để trả lời các câu hỏi của khách hàng của tôi:
-TT	Tên khóa học	Ngày học	Ngày thi (*) 	Giờ thi (*)	Tỉnh/thành phố (*)	"Quận/Huyện/Thành phố/
+TT	Tên khóa học	Ngày học	Ngày thi (*) 	Tỉnh/thành phố (*)	"Quận/Huyện/Thành phố/
 Thị xã (*)"	"Xã/Phường/
-Thị trấn"	Số nhà, phố (*)	SL thi dự kiến (*)	Ghi chú	VP KD	Tên vùng KD	Hình thức lớp
-1	MIỀN NAM-01	06-08/05/2025	10/05/2025	8:00	Tiền Giang (80)	TP. Mỹ Tho (723)	P. 5 (11279)	Trường Đại học Tiền Giang, Số 119 Ấp Bắc	20	Trần Thị Trân Châu 0909422858	Me Kong	Me Kong	ONLINE
-2	MIỀN NAM-01	06-08/05/2025	13/05/2025	8:00	Đà Nẵng (35)	Q. Hải Châu (173)	P. Thạch Thang (1979)	Số 14 Trần Phú	20	Trần Thị Trân Châu 0909422858	Đà Nẵng	Central 1	ONLINE
-3	MIỀN NAM-01	06-08/05/2025	13/05/2025	8:00	Hồ Chí Minh (13)	Q. 3 (94)	P. 14 (4440)	Số 264B Lê Văn Sỹ		Trần Thị Trân Châu 0909422858			
-4	MIỀN NAM-01	06-08/05/2025	10/05/2025	8:00	Đắk Lắk (67)	TP. Buôn Ma Thuột (301)	P. Thắng Lợi (3972)	Thư viện tỉnh Đăk Lăk, Số 6 Trần Quang Khải	20	Trần Thị Trân Châu 0909422858			ONLINE
-5	MIỀN NAM-01	06-08/05/2025	12/05/2025	8:00	Khánh Hòa (68)	TP. Nha Trang (448)	P. Lộc Thọ (6180)	Trung tâm Giáo dục Thường xuyên Khánh Hòa, Số 3 Trần Hưng Đạo	20	Trần Thị Trân Châu 0909422858		Central 1	ONLINE
-6	MIỀN NAM-01	06-08/05/2025	14/05/2025	8:00	An Giang (78)	TP. Long Xuyên (164)	P. Đông Xuyên (923)	Trường Đại học An Giang, Số 18 Ung Văn Khiêm	10	Trần Thị Trân Châu 0909422858	Me Kong	Me Kong	ONLINE
-7	MIỀN NAM-01	06-08/05/2025	14/05/2025	8:00	Bình Định (64)	TP. Quy Nhơn (240)	P. Trần Phú (3321)	Thư viện tỉnh Bình Định, số 188 Hai Bà Trưng	10	Trần Thị Trân Châu 0909422858			
-8	MIỀN NAM-02	12-14/05/2025	15/05/2025	8:00	Đà Nẵng (35)	Q. Hải Châu (173)	P. Thạch Thang (1979)	Số 14 Trần Phú	20	Vũ Thị Hồng Trâm 0987701601	Đà Nẵng	Central 1	ONLINE
-9	MIỀN NAM-02	12-14/05/2025	15/05/2025	8:00	Hồ Chí Minh (13)	Q. 3 (94)	P. 14 (4440)	Số 264B Lê Văn Sỹ	40	Vũ Thị Hồng Trâm 0987701601	South	South	ONLINE
-10	MIỀN NAM-02	12-14/05/2025	16/05/2025	8:00	Đồng Nai (75)	TP. Biên Hòa (328)	P. Tân Hiệp (4641)	Trường Đại học Đồng Nai, Số 4 Lê Quý Đôn	20	Vũ Thị Hồng Trâm 0987701601	Đồng Nai	south 4	ONLINE
-11	MIỀN NAM-02	12-14/05/2025	18/05/2025	8:00	Lâm Đồng (69)	TP. Đà Lạt (489)	P. 8 (6667)	Trường Đại học Yersin Đà Lạt, Số 27 Tôn Thất Tùng	20	Vũ Thị Hồng Trâm 0987701601	FCT Lâm Đồng	South 4	ONLINE
-12	MIỀN NAM-02	12-14/05/2025	18/05/2025	8:00	Gia Lai (65)	TP. Pleiku (354)	X. Diên Phú (4963)	Phân hiệu Trường Đại học Nông Lâm TP Hồ Chí Minh tại Gia Lai, Đường Trần Nhật Duật	30	Vũ Thị Hồng Trâm 0987701601		Central 1	ONLINE
-13	MIỀN NAM-03	16-18/05/2025	20/05/2025	8:00	Cần Thơ (82)	Q. Ninh Kiều (770)	P. An Hòa (1063)	Trường Cao đẳng Kinh tế Kỹ thuật Cần Thơ, Số 9 Cách Mạng Tháng Tám	20	Nguyễn Thị Huệ Thu	Cần Thơ	Me Kong	ONLINE
-14	MIỀN NAM-03	16-18/05/2025	20/05/2025	8:00	Đà Nẵng (35)	Q. Hải Châu (173)	P. Thạch Thang (1979)	Số 14 Trần Phú	18	Nguyễn Thị Huệ Thu	Đà Nẵng	Central 1	ONLINE
-	MIỀN NAM-03	16-18/05/2025	20/05/2025	8:00	Hồ Chí Minh (13)	Q. 3 (94)	P. 14 (4440)	Số 264B Lê Văn Sỹ	40	Nguyễn Thị Huệ Thu			
-15	MIỀN NAM-03	16-18/05/2025	20/05/2025	8:00	Đắk Lắk (67)	TP. Buôn Ma Thuột (301)	P. Thắng Lợi (3972)	Thư viện tỉnh Đăk Lăk, Số 6 Trần Quang Khải	20	Nguyễn Thị Huệ Thu		Central 1	ONLINE
-16	MIỀN NAM-03	16-18/05/2025	22/05/2025	8:00	Bình Định (64)	TP. Quy Nhơn (240)	P. Trần Phú (3321)	Thư viện tỉnh Bình Định, số 188 Hai Bà Trưng	10	Nguyễn Thị Huệ Thu			ONLINE
-17	MIỀN NAM-03	16-18/05/2025	22/05/2025	8:00	An Giang (78)	TP. Long Xuyên (164)	P. Đông Xuyên (923)	Trường Đại học An Giang, Số 18 Ung Văn Khiêm	10	Nguyễn Thị Huệ Thu	Me Kong	Me Kong	ONLINE
-18	MIỀN NAM-03	16-18/05/2025	24/05/2025	8:00	Bình Thuận (74)	TP. Phan Thiết (265)	P. Bình Hưng (3534)	Trường Trung cấp Kinh tế - Kỹ thuật Bình Thuận, Số 417 Trần Hưng Đạo	10	Nguyễn Thị Huệ Thu	South	South	ONLINE
-19	HCM	09-11/05/2025	13/05/2025	8:00	Hồ Chí Minh (13)	Q. 3 (94)	P. 14 (4440)	Số 264B Lê Văn Sỹ	40	Phạm Quốc Cường 0911132119	South	South	OFFLINE
-20	HCM	19-21/05/2025	22/05/2025	8:00	Hồ Chí Minh (13)	Q. 3 (94)	P. 14 (4440)	Số 264B Lê Văn Sỹ	40	Trần Thị Trân Châu 0909422858	South	South	OFFLINE
-21	NAT-MIENTHI	14/05/2025		8:00						Trần Thị Trân Châu 0909422858			ONLINE
-22	NAT-MIENTHI	21/05/2025		8:00						Phạm Quốc Cường 0911132119			ONLINE
-24	NAT-MIENTHI-ILP	14/05/2025		8:00						Phạm Quốc Cường 0911132119			
-25	TGI-THILAI	09/05/2025	10/05/2025	8:00	Tiền Giang (80)	TP. Mỹ Tho (723)	P. 5 (11279)	Trường Đại học Tiền Giang, Số 119 Ấp Bắc	20	Trần Thị Trân Châu 0909422858	Me Kong	Me Kong	
-26	GLA-THILAI	16/05/2025	18/05/2025	8:00	Gia Lai (65)	TP. Pleiku (354)	X. Diên Phú (4963)	Phân hiệu Trường Đại học Nông Lâm TP Hồ Chí Minh tại Gia Lai, Đường Trần Nhaath Duật	5	Trần Thị Trân Châu 0909422858	Gia Lai	Central 1	
-27	DLA-THILAI	19/05/2025	20/05/2025	8:00	Đắk Lắk (67)	TP. Buôn Ma Thuột (301)	P. Thắng Lợi (3972)	Thư viện tỉnh Đăk Lăk, Số 6 Trần Quang Khải	5	Trần Thị Trân Châu 0909422858		Central 1	
-28	DLA-THILAI	09/05/2025	10/05/2025	8:00	Đắk Lắk (67)	TP. Buôn Ma Thuột (301)	P. Thắng Lợi (3972)	Thư viện tỉnh Đăk Lăk, Số 6 Trần Quang Khải	5	Trần Thị Trân Châu 0909422858			
-29	AGI-THILAI	13/05/2025	14/05/2025	8:00	An Giang (78)	TP. Long Xuyên (164)	P. Đông Xuyên (923)	Trường Đại học An Giang, Số 18 Ung Văn Khiêm	5	Trần Thị Trân Châu 0909422858	Me Kong	Me Kong	
-30	AGI-THILAI	21/05/2025	22/05/2025	8:00	An Giang (78)	TP. Long Xuyên (164)	P. Đông Xuyên (923)	Trường Đại học An Giang, Số 18 Ung Văn Khiêm	5	Trần Thị Trân Châu 0909422858			
-31	KHO-THILAI	09/05/2025	12/05/2025	8:00	Khánh Hòa (68)	TP. Nha Trang (448)	P. Lộc Thọ (6180)	Trung tâm Giáo dục Thường xuyên Khánh Hòa, Số 3 Trần Hưng Đạo	20	Trần Thị Trân Châu 0909422858	Nha Trang	Central 1	
-32	DNI-THILAI	15/05/2025	16/05/2025	8:00	Đồng Nai (75)	TP. Biên Hòa (328)	P. Tân Hiệp (4641)	Trường Đại học Đồng Nai, Số 4 Lê Quý Đôn	20	Trần Thị Trân Châu 0909422858	Đồng Nai	south 4	
-33	DNI-THILAI	07/05/2025	08/05/2025	8:00	Đồng Nai (75)	TP. Biên Hòa (328)	P. Tân Hiệp (4641)	Trường Đại học Đồng Nai, Số 4 Lê Quý Đôn	20	Trần Thị Trân Châu 0909422858	Đồng Nai	south 4	
-34	LDO-THILAI	16/05/2025	18/05/2025	8:00	Lâm Đồng (69)	TP. Đà Lạt (489)	P. 8 (6667)	Trường Đại học Yersin Đà Lạt, Số 27 Tôn Thất Tùng	20	Vũ Thị Hồng Trâm 0987701601	FCT Lâm Đồng	South 4	
-35	BDI-THILAI	13/05/2025	14/05/2025	8:00	Bình Định (64)	TP. Quy Nhơn (240)	P. Trần Phú (3321)	Thư viện tỉnh Bình Định, số 188 Hai Bà Trưng	5	Trần Thị Trân Châu 0909422858	Nha Trang	Central 1	
-36	BDI-THILAI	21/05/2025	22/05/2025	8:00	Bình Định (64)	TP. Quy Nhơn (240)	P. Trần Phú (3321)	Thư viện tỉnh Bình Định, số 188 Hai Bà Trưng	5	Trần Thị Trân Châu 0909422858			
-37	CTH-THILAI	09/05/2025	12/05/2025	8:00	Cần Thơ (82)	Q. Ninh Kiều (770)	P. An Hòa (1063)	Trường Cao đẳng Kinh tế Kỹ thuật Cần Thơ, Số 9 Cách Mạng Tháng Tám	5	Trần Thị Trân Châu 0909422858			
-38	CTH-THILAI	19/05/2025	20/05/2025	8:00	Cần Thơ (82)	Q. Ninh Kiều (770)	P. An Hòa (1063)	Trường Cao đẳng Kinh tế Kỹ thuật Cần Thơ, Số 9 Cách Mạng Tháng Tám	5	Trần Thị Trân Châu 0909422858	Cần Thơ	Me Kong	
-39	BTH-THILAI	23/05/2025	24/05/2025	8:00	Bình Thuận (74)	TP. Phan Thiết (265)	P. Bình Hưng (3534)	Trường Trung cấp Kinh tế - Kỹ thuật Bình Thuận, Số 417 Trần Hưng Đạo	10	Vũ Thị Hồng Trâm 0987701601			
-40	HCM-THILAI	05/05/2025	06/05/2025	8:00	Hồ Chí Minh (13)	Q. 3 (94)	P. 14 (4440)	Số 264B Lê Văn Sỹ	40	Phạm Quốc Cường 0911132119	South	South	
-41	HCM-THILAI	19/05/2025	20/05/2025	8:00	Hồ Chí Minh (13)	Q. 3 (94)	P. 14 (4440)	Số 264B Lê Văn Sỹ	40	Phạm Quốc Cường 0911132119	South	South	
-42	HCM-THILAI	26/05/2025	27/05/2025	8:00	Hồ Chí Minh (13)	Q. 3 (94)	P. 14 (4440)	Số 264B Lê Văn Sỹ	40	Phạm Quốc Cường 0911132119	South	South	
-43	HCM-THILAI	30/05/2025	31/05/2025	8:00	Hồ Chí Minh (13)	Q. 3 (94)	P. 14 (4440)	Số 264B Lê Văn Sỹ	40	Phạm Quốc Cường 0911132119	South	South	
-44	DNA-THILAI	05/05/2025	06/05/2025	8:00	Đà Nẵng (35)	Q. Hải Châu (173)	P. Thạch Thang (1979)	Số 14 Trần Phú	18	Phạm Quốc Cường 0911132119	Đà Nẵng	Central 1	
-45	DNA-THILAI	19/05/2025	20/05/2025	8:00	Đà Nẵng (35)	Q. Hải Châu (173)	P. Thạch Thang (1979)	Số 14 Trần Phú	18	Phạm Quốc Cường 0911132119	Đà Nẵng	Central 1	
-46	DNA-THILAI	26/05/2025	27/05/2025	8:00	Đà Nẵng (35)	Q. Hải Châu (173)	P. Thạch Thang (1979)	Số 14 Trần Phú	18	Phạm Quốc Cường 0911132119	Đà Nẵng	Central 1	
-47	DNA-THILAI	30/05/2025	31/05/2025	8:00	Đà Nẵng (35)	Q. Hải Châu (173)	P. Thạch Thang (1979)	Số 14 Trần Phú	18	Phạm Quốc Cường 0911132119	Đà Nẵng	Central 1	
-48	CMA-THILAI	05/05/2025	06/05/2025	8:00	Cà Mau (88)	TP. Cà Mau (274)	P. 5 (3665)	Trung tâm Giáo dục thường xuyên tỉnh Cà Mau, Số 4 Lê Thị Riêng	10	Trần Đại 0972022722	Mekong		
-49	NAT-ILP	14-16/05/2025	20/05/2025	8:00	Hồ Chí Minh (13)	Q. 3 (94)	P. 14 (4440)	Số 264B Lê Văn Sỹ	20	Trần Thị Trân Châu 0909422858	South	South	
-50	NAT-ILP	14-16/05/2025	20/05/2025	8:00	Cần Thơ (82)	Q. Ninh Kiều (770)	P. An Hòa (1063)	Trường Cao đẳng Kinh tế Kỹ thuật Cần Thơ, Số 9 Cách Mạng Tháng Tám	20	Trần Thị Trân Châu 0909422858	Cần Thơ		
-51	NAT-ILP	14-16/05/2025	20/05/2025	8:00	Đà Nẵng (35)	Q. Hải Châu (173)	P. Thạch Thang (1979)	Số 14 Trần Phú	20	Trần Thị Trân Châu 0909422858	Đà Nẵng	Central 1	
-52	DNA-THILAI-ILP	08/05/2025	13/05/2025	8:00	Đà Nẵng (35)	Q. Hải Châu (173)	P. Thạch Thang (1979)	Số 14 Trần Phú	18	Phạm Quốc Cường 0911132119	Đà Nẵng	Central 1	
-54	HCM-THILAI-ILP	08/05/2025	13/05/2025	8:00	Hồ Chí Minh (13)	Q. 3 (94)	P. 14 (4440)	Số 264B Lê Văn Sỹ	40	Phạm Quốc Cường 0911132119	South	South	
-55	CTH-THILAI-ILP	15/05/2025	20/05/2025	8:00	Cần Thơ (82)	Q. Ninh Kiều (770)	P. An Hòa (1063)	Trường Cao đẳng Kinh tế Kỹ thuật Cần Thơ, Số 9 Cách Mạng Tháng Tám	20	Trần Thị Trân Châu 0909422858	Cần Thơ		
-Trong tháng 5 này còn lớp Shine nào nữa hay không?
-Memo tuyển dụng trong tháng 5 và quý 2 này như thế nào ?
+Thị trấn"	Số nhà, phố (*)	Ghi chú	Mã Chi nhánh	"Ghi chú
+GV dẫn đi thi"
+1	MIỀN NAM-01	06-08/06/2025	10/06/2025	Tiền Giang (80)	TP. Mỹ Tho (723)	P. 5 (11279)	Trường Đại học Tiền Giang, Số 119 Ấp Bắc	Trần Thị Trân Châu 0909422858	FWD HCM	ONLINE
+2	MIỀN NAM-01	06-08/06/2025	10/06/2025	Đà Nẵng (35)	Q. Hải Châu (173)	P. Thạch Thang (1979)	Số 14 Trần Phú	Trần Thị Trân Châu 0909422858	FWD HCM	ONLINE
+3	MIỀN NAM-01	06-08/06/2025	10/06/2025	Hồ Chí Minh (13)	Q. 3 (94)	P. 14 (4440)	Số 264B Lê Văn Sỹ	Trần Thị Trân Châu 0909422858		
+4	MIỀN NAM-01	06-08/06/2025	10/06/2025	Đắk Lắk (67)	TP. Buôn Ma Thuột (301)	P. Thắng Lợi (3972)	Thư viện tỉnh Đăk Lăk, Số 6 Trần Quang Khải	Trần Thị Trân Châu 0909422858	FWD HCM	ONLINE
+5	MIỀN NAM-01	06-08/06/2025	12/06/2025	Khánh Hòa (68)	TP. Nha Trang (448)	P. Lộc Thọ (6180)	Trung tâm Giáo dục Thường xuyên Khánh Hòa, Số 3 Trần Hưng Đạo	Trần Thị Trân Châu 0909422858	FWD HCM	ONLINE
+	MIỀN NAM-01	06-08/06/2025	12/06/2025	Cần Thơ (82)	Q. Ninh Kiều (770)	P. An Hòa (1063)	Trường Cao đẳng Kinh tế Kỹ thuật Cần Thơ, Số 9 Cách Mạng Tháng Tám	Nguyễn Thị Huệ Thu	FWD HCM	ONLINE
+6	MIỀN NAM-01	06-08/06/2025	14/06/2025	An Giang (78)	TP. Long Xuyên (164)	P. Đông Xuyên (923)	Trường Đại học An Giang, Số 18 Ung Văn Khiêm	Trần Thị Trân Châu 0909422858	FWD HCM	ONLINE
+7	MIỀN NAM-01	06-08/06/2025	14/06/2025	Bình Định (64)	TP. Quy Nhơn (240)	P. Trần Phú (3321)	Thư viện tỉnh Bình Định, số 188 Hai Bà Trưng	Trần Thị Trân Châu 0909422858	FWD HCM	
+8	MIỀN NAM-02	12-14/06/2025	17/06/2025	Đà Nẵng (35)	Q. Hải Châu (173)	P. Thạch Thang (1979)	Số 14 Trần Phú	Vũ Thị Hồng Trâm 0987701601	FWD HCM	ONLINE
+9	MIỀN NAM-02	12-14/06/2025	17/06/2025	Hồ Chí Minh (13)	Q. 3 (94)	P. 14 (4440)	Số 264B Lê Văn Sỹ	Vũ Thị Hồng Trâm 0987701601	FWD HCM	ONLINE
+10	MIỀN NAM-02	12-14/06/2025	16/06/2025	Đồng Nai (75)	TP. Biên Hòa (328)	P. Tân Hiệp (4641)	Trường Đại học Đồng Nai, Số 4 Lê Quý Đôn	Vũ Thị Hồng Trâm 0987701601	FWD HCM	ONLINE
+11	MIỀN NAM-02	12-14/06/2025	18/06/2025	Lâm Đồng (69)	TP. Đà Lạt (489)	P. 8 (6667)	Trường Đại học Yersin Đà Lạt, Số 27 Tôn Thất Tùng	Vũ Thị Hồng Trâm 0987701601	FWD HCM	ONLINE
+12	MIỀN NAM-02	12-14/06/2025	18/06/2025	Gia Lai (65)	TP. Pleiku (354)	X. Diên Phú (4963)	Phân hiệu Trường Đại học Nông Lâm TP Hồ Chí Minh tại Gia Lai, Đường Trần Nhật Duật	Vũ Thị Hồng Trâm 0987701601	FWD HCM	ONLINE
+13	MIỀN NAM-03	16-18/06/2025	20/06/2025	Cần Thơ (82)	Q. Ninh Kiều (770)	P. An Hòa (1063)	Trường Cao đẳng Kinh tế Kỹ thuật Cần Thơ, Số 9 Cách Mạng Tháng Tám	Nguyễn Thị Huệ Thu	FWD HCM	ONLINE
+14	MIỀN NAM-03	16-18/06/2025	19/06/2025	Đà Nẵng (35)	Q. Hải Châu (173)	P. Thạch Thang (1979)	Số 14 Trần Phú	Nguyễn Thị Huệ Thu	FWD HCM	ONLINE
+	MIỀN NAM-03	16-18/06/2025	19/06/2025	Hồ Chí Minh (13)	Q. 3 (94)	P. 14 (4440)	Số 264B Lê Văn Sỹ	Nguyễn Thị Huệ Thu		
+15	MIỀN NAM-03	16-18/06/2025	20/06/2025	Đắk Lắk (67)	TP. Buôn Ma Thuột (301)	P. Thắng Lợi (3972)	Thư viện tỉnh Đăk Lăk, Số 6 Trần Quang Khải	Nguyễn Thị Huệ Thu	FWD HCM	ONLINE
+16	MIỀN NAM-03	16-18/06/2025	22/06/2025	Bình Định (64)	TP. Quy Nhơn (240)	P. Trần Phú (3321)	Thư viện tỉnh Bình Định, số 188 Hai Bà Trưng	Nguyễn Thị Huệ Thu	FWD HCM	ONLINE
+17	MIỀN NAM-03	16-18/06/2025	22/06/2025	An Giang (78)	TP. Long Xuyên (164)	P. Đông Xuyên (923)	Trường Đại học An Giang, Số 18 Ung Văn Khiêm	Nguyễn Thị Huệ Thu	FWD HCM	ONLINE
+18	MIỀN NAM-03	16-18/06/2025	24/06/2025	Bình Thuận (74)	TP. Phan Thiết (265)	P. Phú Trinh (3545)	Trường Cao đẳng Bình Thuận, Số 38 Nguyễn Hội	Nguyễn Thị Huệ Thu	FWD HCM	ONLINE
+19	HCM	09-11/06/2025	12/06/2025	Hồ Chí Minh (13)	Q. 3 (94)	P. 14 (4440)	Số 264B Lê Văn Sỹ	Phạm Quốc Cường 0911132119	FWD HCM	OFFLINE
+20	HCM	20-22/06/2025	24/06/2025	Hồ Chí Minh (13)	Q. 3 (94)	P. 14 (4440)	Số 264B Lê Văn Sỹ	Trần Thị Trân Châu 0909422858	FWD HCM	OFFLINE
+21	HCM-MIENTHI	11/06/2025						Trần Thị Trân Châu 0909422858	FWD HCM	ONLINE
+22	HCM-MIENTHI	18/06/2025						Phạm Quốc Cường 0911132119	FWD HCM	ONLINE
+24	HCM-MIENTHI-ILP	11/06/2025						Phạm Quốc Cường 0911132119	FWD HCM	
+25	TGI-THILAI	07/06/2025	10/06/2025	Tiền Giang (80)	TP. Mỹ Tho (723)	P. 5 (11279)	Trường Đại học Tiền Giang, Số 119 Ấp Bắc	Trần Thị Trân Châu 0909422858	FWD HCM	
+26	GLA-THILAI	16/06/2025	18/06/2025	Gia Lai (65)	TP. Pleiku (354)	X. Diên Phú (4963)	Phân hiệu Trường Đại học Nông Lâm TP Hồ Chí Minh tại Gia Lai, Đường Trần Nhaath Duật	Trần Thị Trân Châu 0909422858	FWD HCM	
+27	DLA-THILAI	18/06/2025	20/06/2025	Đắk Lắk (67)	TP. Buôn Ma Thuột (301)	P. Thắng Lợi (3972)	Thư viện tỉnh Đăk Lăk, Số 6 Trần Quang Khải	Trần Thị Trân Châu 0909422858	FWD HCM	
+28	DLA-THILAI	06/06/2025	10/06/2025	Đắk Lắk (67)	TP. Buôn Ma Thuột (301)	P. Thắng Lợi (3972)	Thư viện tỉnh Đăk Lăk, Số 6 Trần Quang Khải	Trần Thị Trân Châu 0909422858	FWD HCM	
+29	AGI-THILAI	12/06/2025	14/06/2025	An Giang (78)	TP. Long Xuyên (164)	P. Đông Xuyên (923)	Trường Đại học An Giang, Số 18 Ung Văn Khiêm	Trần Thị Trân Châu 0909422858	FWD HCM	
+30	AGI-THILAI	19/06/2025	22/06/2025	An Giang (78)	TP. Long Xuyên (164)	P. Đông Xuyên (923)	Trường Đại học An Giang, Số 18 Ung Văn Khiêm	Trần Thị Trân Châu 0909422858	FWD HCM	
+31	KHO-THILAI	10/06/2025	12/06/2025	Khánh Hòa (68)	TP. Nha Trang (448)	P. Lộc Thọ (6180)	Trung tâm Giáo dục Thường xuyên Khánh Hòa, Số 3 Trần Hưng Đạo	Trần Thị Trân Châu 0909422858	FWD HCM	
+32	DNI-THILAI	12/06/2025	16/06/2025	Đồng Nai (75)	TP. Biên Hòa (328)	P. Tân Hiệp (4641)	Trường Đại học Đồng Nai, Số 4 Lê Quý Đôn	Trần Thị Trân Châu 0909422858	FWD HCM	
+33	DNI-THILAI	05/06/2025	08/06/2025	Đồng Nai (75)	TP. Biên Hòa (328)	P. Tân Hiệp (4641)	Trường Đại học Đồng Nai, Số 4 Lê Quý Đôn	Trần Thị Trân Châu 0909422858	FWD HCM	
+34	LDO-THILAI	16/06/2025	18/06/2025	Lâm Đồng (69)	TP. Đà Lạt (489)	P. 8 (6667)	Trường Đại học Yersin Đà Lạt, Số 27 Tôn Thất Tùng	Vũ Thị Hồng Trâm 0987701601	FWD HCM	
+35	BDI-THILAI	12/06/2025	14/06/2025	Bình Định (64)	TP. Quy Nhơn (240)	P. Trần Phú (3321)	Thư viện tỉnh Bình Định, số 188 Hai Bà Trưng	Trần Thị Trân Châu 0909422858	FWD HCM	
+36	BDI-THILAI	19/06/2025	22/06/2025	Bình Định (64)	TP. Quy Nhơn (240)	P. Trần Phú (3321)	Thư viện tỉnh Bình Định, số 188 Hai Bà Trưng	Trần Thị Trân Châu 0909422858	FWD HCM	
+37	CTH-THILAI	10/06/2025	12/06/2025	Cần Thơ (82)	Q. Ninh Kiều (770)	P. An Hòa (1063)	Trường Cao đẳng Kinh tế Kỹ thuật Cần Thơ, Số 9 Cách Mạng Tháng Tám	Trần Thị Trân Châu 0909422858	FWD HCM	
+38	CTH-THILAI	18/06/2025	20/06/2025	Cần Thơ (82)	Q. Ninh Kiều (770)	P. An Hòa (1063)	Trường Cao đẳng Kinh tế Kỹ thuật Cần Thơ, Số 9 Cách Mạng Tháng Tám	Trần Thị Trân Châu 0909422858	FWD HCM	
+39	BTH-THILAI	20/06/2025	24/06/2025	Bình Thuận (74)	TP. Phan Thiết (265)	P. Phú Trinh (3545)	Trường Cao đẳng Bình Thuận, Số 38 Nguyễn Hội	Vũ Thị Hồng Trâm 0987701601	FWD HCM	
+40	HCM-THILAI	05/06/2025	07/06/2025	Hồ Chí Minh (13)	Q. 3 (94)	P. 14 (4440)	Số 264B Lê Văn Sỹ	Phạm Quốc Cường 0911132119	FWD HCM	
+41	HCM-THILAI	14/06/2025	17/06/2025	Hồ Chí Minh (13)	Q. 3 (94)	P. 14 (4440)	Số 264B Lê Văn Sỹ	Phạm Quốc Cường 0911132119	FWD HCM	
+42	HCM-THILAI	21/06/2025	24/06/2025	Hồ Chí Minh (13)	Q. 3 (94)	P. 14 (4440)	Số 264B Lê Văn Sỹ	Phạm Quốc Cường 0911132119	FWD HCM	
+43	HCM-THILAI	27/06/2025	28/06/2025	Hồ Chí Minh (13)	Q. 3 (94)	P. 14 (4440)	Số 264B Lê Văn Sỹ	Phạm Quốc Cường 0911132119	FWD HCM	
+44	DNA-THILAI	05/06/2025	07/06/2025	Đà Nẵng (35)	Q. Hải Châu (173)	P. Thạch Thang (1979)	Số 14 Trần Phú	Phạm Quốc Cường 0911132119	FWD HCM	
+45	DNA-THILAI	14/06/2025	17/06/2025	Đà Nẵng (35)	Q. Hải Châu (173)	P. Thạch Thang (1979)	Số 14 Trần Phú	Phạm Quốc Cường 0911132119	FWD HCM	
+46	DNA-THILAI	21/06/2025	24/06/2025	Đà Nẵng (35)	Q. Hải Châu (173)	P. Thạch Thang (1979)	Số 14 Trần Phú	Phạm Quốc Cường 0911132119	FWD HCM	
+47	DNA-THILAI	27/06/2025	28/06/2025	Đà Nẵng (35)	Q. Hải Châu (173)	P. Thạch Thang (1979)	Số 14 Trần Phú	Phạm Quốc Cường 0911132119	FWD HCM	
+48	CMA-THILAI	04/06/2025	06/06/2025	Cà Mau (88)	TP. Cà Mau (274)	P. 5 (3665)	Trung tâm Giáo dục thường xuyên tỉnh Cà Mau, Số 4 Lê Thị Riêng	Trần Đại 0972022722	FWD HCM	
+49	HCM-ILP	11-13/06/2025	17/06/2025	Hồ Chí Minh (13)	Q. 3 (94)	P. 14 (4440)	Số 264B Lê Văn Sỹ	Trần Thị Trân Châu 0909422858	FWD HCM	
+50	HCM-ILP	11-13/06/2025	20/06/2025	Cần Thơ (82)	Q. Ninh Kiều (770)	P. An Hòa (1063)	Trường Cao đẳng Kinh tế Kỹ thuật Cần Thơ, Số 9 Cách Mạng Tháng Tám	Trần Thị Trân Châu 0909422858	FWD HCM	
+51	HCM-ILP	11-13/06/2025	17/06/2025	Đà Nẵng (35)	Q. Hải Châu (173)	P. Thạch Thang (1979)	Số 14 Trần Phú	Trần Thị Trân Châu 0909422858	FWD HCM	
+52	DNA-THILAI-ILP	04/06/2025	07/06/2025	Đà Nẵng (35)	Q. Hải Châu (173)	P. Thạch Thang (1979)	Số 14 Trần Phú	Phạm Quốc Cường 0911132119	FWD HCM	
+54	HCM-THILAI-ILP	04/06/2025	07/06/2025	Hồ Chí Minh (13)	Q. 3 (94)	P. 14 (4440)	Số 264B Lê Văn Sỹ	Phạm Quốc Cường 0911132119	FWD HCM	
 
-Trong tháng 5 này còn lớp Shine nào nữa hay không?
-Memo tuyển dụng trong tháng 5 và quý 2 này như thế nào ?
+Trong tháng 6 này còn lớp Shine nào nữa hay không?
+Trong tháng 6 này còn Lớp Miễn Thi nào nữa hay không?
+Trong tháng 6 này còn lớp Thi lại nữa không?
+
+Memo tuyển dụng trong tháng 6 và quý 2 này như thế nào ?
 Tuyển 1 người thưởng cho Quản lý 500k -> Có Active trên 10tr thưởng thêm 1 triệu đồng
 Nhưng tuyển 02 người thì tính 1tr/code  -> Có Active trên 10tr thưởng them 1 triệu/Active 
 Nên hẫy tuyển từ 02 người trở lên nhé , anh/chị muốn tìm lớp chứ?
@@ -74,8 +76,6 @@ Tư vấn mới Active trong 2 tháng (tính cả tháng cấp code) được th
 + HĐ> 20tr -> Thưởng 2 triệu đồng
 Hẫy hỗ trợ đại lý mới hoạt động nhanh trong vòng 7 ngày nhé anh chị . 
 
-Trong tháng 5 này còn Lớp Miễn Thi nào nữa hay không?
-Trong tháng 5 này còn lớp Thi lại nữa không?
 Chỉ tiêu đi Mỹ nay là bao nhiêu ?
 Chỉ cần 999tr FYP & 10 HĐ là đi Mỹ rồi nhé . (Trong đó được nhân đôi sản phẩm bổ trợ lên đến 100tr) . Rất tuyệt vời phải không anh chị, Hẫy cùng làm để năm sau mình đi Mỹ nhé anh chị . Anh chị chắc chắn làm được ! YOU CAN DO IT !
 Các anh chị là quản lý sẽ được tham gia chương trình đi Mỹ cụ thể như sau: 
@@ -92,13 +92,28 @@ Chỉ tiêu MDRT năm nay là bao nhiêu?
 PHÍ BẢO HIỂM NĂM ĐẦU (FYP) TRONG NĂM 2025
 PHÍ BẢO HIỂM NĂM ĐẦU (FYP) TRONG NĂM 2025
 + CHỈ TIÊU ELITE 2026: 466.802.300 FYP -> THƯỞNG 10 TR
-+ CHỈ TIÊU MDRT 2026: 933.604.600 FYP -> THƯỞNG 20 TR
-+ CHỈ TIÊU COT 2026 : 2.800.813.800 FYP-> THƯỞNG 75 TR
-+ CHỈ TIÊU TOT: 5.601.627.600 FYP-> THƯỞNG 150TR
++ CHỈ TIÊU MDRT 2026: 933.604.600 FYP -> THƯỞNG 20  Hỗ trợ chi phí đăng ký thành viên MDRT Thế Giới
++ CHỈ TIÊU COT 2026 : 2.800.813.800 FYP-> THƯỞNG 75 TR Hỗ trợ chi phí đăng ký thành viên MDRT Thế Giới
++ CHỈ TIÊU TOT: 5.601.627.600 FYP-> THƯỞNG 150TR Hỗ trợ chi phí đăng ký thành viên MDRT Thế Giới
 Bên cạnh đó anh chị sẽ được thưởng thêm khi đạt tiến độ MDRT cụ thể như sau:
 + QUÝ 1/2025 ≥ 188 TRIỆU, K2 ≥ 60% -> 5 TRIỆU
 + QUÝ 2/2025≥ 234 TRIỆU, K2≥ 60% -> 5 TRIỆU 
 + QUÝ 3/2025≥ 234 TRIỆU, K2≥ 60% -> 5 TRIỆU
+
+CHƯƠNG TRÌNH 3 NĂM MDRT VỮNG BƯỚC CÙNG FWD
+THANG ĐIỂM QUY ĐỔI THEO DANH HIỆU MDRT/COT/TOT MỖI NĂM DANH HIỆU MỖI NĂM
+ MDRT: 1
+ COT: 3
+ TOT: 6
+ ĐIỀU KIỆN VÀ GIẢI THƯỞNG ĐIỀU KIỆN TỐI THIỂU TRONG 3 NĂM LIÊN TIẾP  
+ 3 lần đạt danh hiệu MDRT hoặc tổng điểm quy đổi ≥ 3 K2 ≥ 75% thưởng 330 - 400 triệu
+ 3 lần đạt danh hiệu COT hoặc tổng điểm quy đổi ≥ 9 K2 ≥ 75% thưởng 1 tỷ - 1,2 tỷ
+ 3 lần đạt danh hiệu TOT hoặc tổng điểm quy đổi ≥ 18 K2 ≥ 75% thưởng 2 tỷ - 2,4 tỷ
+ ➢ Cá nhân TVTC và Cá nhân CQL phải đạt tối thiểu liên tiếp danh hiệu MDRT/COT/TOT 2024, 2025, 2026 tại FWD Việt Nam (theo doanh số 
+năm 2023, 2024, 2025) để đủ điều kiện tham gia chương trình này.
+ 26
+ ➢ Thưởng 2: dành cho cá nhân đạt điều kiện thi đua và đã đạt thêm danh hiệu MDRT 2023
+
 Chỉ tiêu Chương trình ĐẲNG CẤP HIVE 2026 dành cho kênh agency như sau: 
 + TÍNH TOP 5 TVTC/CQL dẫn đầu FYP 2025
 + SỐ THÁNG ĐẠT CHUẨN TỐI THIỂU: ≥ 6 (Đạt chuẩn: Mỗi tháng có ít nhật 1 HĐ từ 10tr FYP)
@@ -116,7 +131,102 @@ Cách tính điểm như sau:
 Mỗi TVTC gia nhập trong quý 2.2025 được tính : 2 điểm
 Mỗi TVTC Có HĐ từ 10tr FYP trong tháng được tính : 3 điểm
 Mỗi TVTC/CQL đạt trong phần tham gia cá nhân được tính : 05 điểm 
-Thái Lan là một đất nước xinh đẹp, Sôi động & Tất cả chúng ta sẽ cùng nhau đi Thái Lan nhé các anh chị. 
+Thái Lan là một đất nước xinh đẹp, Sôi động & Tất cả chúng ta sẽ cùng nhau đi Thái Lan nhé các anh chị & chương trình chỉ kéo dài đến hết tháng 6.2025 này thôi nhé !
+
+Các memo dành riêng cho các anh chị quản lý (FWO/FWM/FWD) : 
+QUẢN LÝ TÀI BA HOẠT ĐỘNG HIỆU QUẢ (FWDVN/AS/0425-33)
+Thời gian 01/04/2025 – 30/06/2025
+TÍNH TRÊN SỐ LƯỢNG TVTC ĐẠT CHUẨN TRONG NHÓM TRỰC TIẾP TRONG MỖI THÁNG
+ Đối tượng Cấp quản lý nhóm trực tiếp
+ THƯỞNG/THÁNG (VNĐ)
+ ≥ 2 -> 1.500.000
+ ≥ 4 -> 4.000.000
+ ≥ 6 -> 8.000.000
+Các lưu ý:
+ 1. TVTC đạt chuẩn là TVTC có ít nhất 1 HĐBH phát hành trong tháng. HĐBH này phải có tổng phí FYP từ 10 triệu VNĐ 
+trở lên và đã qua thời gian cân nhắc tại thời điểm chốt kết quả chính thức.
+ 2. Nhóm trực tiếp của cấp quản lý bao gồm bản thân cấp quản lý đang xét thi đua và các FWP báo cáo trực tiếp
+
+Đầu mối liên hệ Team AA (Agency Administration)
+ ➢Cấp Mã số TVTC/AD+ & Cấpquyềnsảnphẩm Nguyễn Huỳnh Lê Huynhle.nguyen@fwd.com 3048
+ Đặng Thị Thanh Hương ThanhHuong.Dang@fwd.com 3013
+ ➢Điều chỉnh thông tin TVTC Phạm Thị Như Trà pham.thinhutra@fwd.com 3087
+ ➢Thăng cấp/Giáng cấp TVTC Bùi Thị Kim Ngân Kimngan.bui@fwd.com 8706
+ ➢Chuyểnnhóm& Chấm dứt mã số TVTC Nguyễn Thị Thanh Vân Van.NguyenThanh@fwd.com 3028
+ Phạm Thị Như Trà Pham.thinhutra@fwd.com 3087
+ ➢Phân công hợp đồng bảo hiểm Lê Thị Thanh Thúy Thanhthuy.Le@fwd.com 2965
+ ➢Công Nợ Phan Thị HồngNhung Hongnhung.phan@fwd.com 8704
+ ➢Thỏa thuận ACDP & RSP & AD+ Phạm Lê Anh Thy Anhthy.pham@fwd.com 2990
+ ➢Thắc mắc Thu Nhập Miền Bắc Nguyễn Thị Phương Phuong.nguyen@fwd.com 2986
+ ➢Thắc mắcThu Nhập Miền Nam Nguyễn Thị Ngọc Bích Bich.nguyenthi@fwd.com 3034
+ ➢ MOC/PROMOTION dành choAD+ Phan Hoàng Nam Phan.HoangNam@fwd.com 2337
+ Lưu ý:
+ ❖ Cấpcode/ chuyển nhóm/chuyển đổi hợp đồng/ cấp quyền bán sản phẩm sẽ thực hiện trong vòng 1 ngày làm việc kể từngày tiếp nhận thông tin
+ ❖ Thắc mắcthu nhập sẽ trả lời trong vòng 2 ngày làm việc kể từ ngày tiếpnhận thông tin
+
+Đầu mối liên hệ Team CS_ IT _NBU_Claim_Compliance
+ Lĩnh Vực Phụ Trách Nhân Viên phụ trách Liên hệ email Số máy nhánh
+ ➢Phòng DVKH, Công ty TNHH Bảo Hiểm Nhân Thọ FWD Việt Nam (Nhận chứng từ Khách hàng và Đại lý)
+ Lưu ý: Người gửi chọn dịch vụ phát tại quầy CS
+ Miền Bắc: 
+Đào Thị Quế Phương quephuong.dao@fwd.com Lầu 4, Tòa nhà Artemis, Số 3 Lê Trọng Tấn P. Khương Mai, Q. Thanh Xuân, Hà Nội
+ Miền nam: 
+Bùi Thu Thùy thuthuy.bui@fwd.com Lầu 6, Tòa nhà Cienco, Số 180 Nguyễn Thị Minh Khai, P. Võ Thị Sáu, Q.3, TPHCM
+ Miền Trung: 
+Trần Thị Lợi loi.tran@fwd.com
+Lầu lửng, Tòa nhà V. Starup, Số 16 Lý Thường Kiệt, P. Thạch Thang, Q. Hải Châu, Đà Nẵng
+ ➢Tổng Đài IT –LiveChat @ 
+Hotline (IT)
+ Hỗ trợ công nghệ số (CUBE) hotrocongngheso@fwd.com
+ Live chat on SMART ServiceDesk.vn@fwd.com (24) 39386757 – ext: 1111
+ Live chat on SMART ServiceDesk.vn@fwd.com (24) 62563688 – ext: 2222
+ ➢Tổng Đài Thẩm Định (Hot line NBU) Nguyễn Hương Thảo Huongthao.nguyen@fwd.com 1410
+ ➢Chi Trả Quyền Lợi Khách Hàng (Claim) Nguyễn Thị Quỳnh Trâm QuynhTram.Nguyen@fwd.com 2527
+ ➢Thanh Tra (Compliance) Tạ Thúc Hoàng Thuchoang.ta@fwd.com 2970 
+Đầu mối liên hệ Team Học viện (Agency Training - COE)
+ ➢ Lịch đào tạo (lớp Shine/ILP/ WSH về sản phẩm/WSH dành cho CQL) - Miền Bắc Lịch đào tạo dành cho RSP - Miền Bắc Nguyễn Quốc Tuấn QuocTuan.Nguyen@fwd.com 3612
+ ➢ Lịch đào tạo (lớp Shine/ILP/ WSH về sản phẩm/WSH dành cho CQL) - Miền Nam & Trung Lịch đào tạo dành cho RSP - Miền Nam & Trung
+ Ngô Trần Cát Miên CatMien.Ngo@fwd.com 3378
+ ➢ Lịch đào tạo dành cho AD toàn quốc Lộ trình đào tạo cho AD mới Trần Tuấn Vũ TuanVu.Tran@fwd.com 3384
+ ➢Hỗ trợ đăng nhập AOL, kết quả thi Shine Phạm Thị Diệu Huyền Trương Thị Quỳnh Thoa DieuHuyen.Pham@fwd.com vnuser102@fwd.com 3614
+ ➢Xét duyệt thời gian lớp Shine (refresh ILP 2.0) Đỗ Duy Ninh Do.DuyNinh@fwd.com 3377
+Đầu mối liên hệ Team Agency Support – GA Support 
+Lĩnh Vực Phụ Trách Nhân Viên phụ trách Liên hệ email Máy nhánh
+ ➢Thi đua Đinh Thị Thanh Dung Thanhdung.dinh@fwd.com 2335
+ ➢Sự kiện Huỳnh Thị Phương Anh Phuonganh.Huynh@fwd.com 2534
+ ➢Hỗ trợ Hợp đồng doanh nghiệp Nguyễn Thị Ngọc Thủy thuy.nguyenngoc@fwd.com 2146
+ ➢eRecruit, Quy trình Shine 
+ Lê Thanh Hoa thanhhoa.le@fwd.com 3609
+ Nguyễn Thị Vân Thanh vanthanh.nguyen@fwd.com 3608
+
+ ➢Hỗ trợ Sales (Payment, Pending)
+ (HANOI - ĐÔNG BẮC & DUYÊN HẢI BẮC BỘ) Vũ Thị Hà Ngân  hangan.vu@fwd.com 3606
+(HCM & ĐÔNG NAM BỘ - MEKONG - NAM TRUNG BỘ & TÂY NGUYÊN)
+ Nguyễn Thị Vân Thanh vanthanh.nguyen@fwd.com 3608
+ ➢Hỗ Trợ GA
+ Nguyễn Thị Vân Thanh Khu vực phía Bắc (từ Huế trở ra) vanthanh.nguyen@fwd.com 3608
+ Phan Joli Khu vực phía Nam (từ Đà Nẵng trở vào) joli.phan@fwd.com 2394
+ Lưu ý: Thắc mắc thi đua sẽ trả lời trong vòng 1 đến 2 ngày làm việc (không tính thứ 7, CN và các ngày lễ) kể từ ngày tiếp nhận thông tin
+Đầu mối liên hệ Team ASP (Agency Strategy and Planning)
+ Lĩnh Vực Phụ Trách
+ ➢ Báo cáo Sale, ACDP/RSP/MDRT Trương Thị Vân Anh - Vananh.truong@fwd.com - 2529
+ ➢ Báo cáo MOC/PROMOTION Nguyễn Hải Triều - Haitrieu.nguyen@fwd.com - 2268
+ ➢ Báo cáo Daily Production Nguyễn Thanh Trúc - Thanhtruc.nguyen@fwd.com - 2978
+
+Thông tin các phòng ban back office:
+AAS: Phòng Hỗ trợ và quản lý Đại Lý – Kênh Đại lý
+GA: Bộ phận quản lý văn phòng GA – Kênh Đại lý
+ASP: Agency Strategy and Planning
+Agency Recruitment: Phòng Tuyển Dụng - Kênh Đại Lý
+Agency Training – COE: Học Viện đào tạo - Kênh Đại Lý
+MKT : Truyền thông và thương hiệu
+Legal – Compliance: Pháp Chế và Thanh Tra
+IT : Tổng Đài IT – LiveChat @ Hotline
+Hỗ trợ công nghệ số (CUBE)
+CS: Trung tâm dịch vụ khách hàng (Nơi tiếp nhận chứng từ và giải đáp thông tin trực tiếp tại quầy)
+OP: Chi trả quyền lợi khách hàng (Claim) & Tổng đài Thẩm định (NBU)
+Procurement: Phòng mua hàng
+Property: Phòng Quản lý văn phòng
 
 Thông tin giới thiệu về FWD Việt Nam:
 Công ty TNHH Bảo hiểm Nhân thọ FWD Việt Nam được thành lập theo Giấy phép Thành lập và Hoạt động số 47GP/KDBH do Bộ Tài chính cấp vào ngày 23 tháng 11 năm 2007 và Giấy phép điều chỉnh mới nhất số 47/GPĐC22/KDBH được Bộ Tài chính cấp ngày 24 tháng 07 năm 2023.
@@ -141,10 +251,54 @@ Hợp đồng bảo hiểm, đọc phải hiểu ngay
 Dành những phút giây quý báu để trải nghiệm cuộc sống, thay vì "giải mã" thuật ngữ bảo hiểm. FWD đã đơn giản hóa bộ Hợp đồng bảo hiểm, giúp bạn dễ dàng đọc và hiểu Hợp đồng của mình, và vẫn đảm bảo tính pháp lý cần thiết theo pháp luật Việt Nam.
 Cải tiến quy trình giải quyết bồi thường
 Chúng tôi hiểu được rằng khi yêu cầu giải quyết quyền lợi bảo hiểm là lúc khách hàng cần đến sự hỗ trợ của chúng tôi hơn bao giờ hết. Vì vậy, chúng tôi mang đến dịch vụ chi trả quyền lợi bảo hiểm hoàn toàn trực tuyến, dễ dàng và thuận tiện hơn. Đặc biệt, một số quyền lợi bảo hiểm được chi trả chỉ trong vòng 24 giờ.
+
+Văn hóa dựa trên hệ giá trị cốt lõi
+Với tầm nhìn mạnh mẽ "thay đối cảm nhận của mọi người về bảo hiểm" cùng sự tăng trưởng kinh doanh vượt trội, chúng tôi chọn ‘5C’ là kim chỉ nam cho phương cách vận hành và tương tác tại FWD. ‘5C’ bao gồm năm giá trị cốt lõi: Cam kết, Cải tiến, Chủ động, Cởi mở và Chăm sóc.
+
+Cam kết
+Chúng tôi thực thi lời hứa của mình.
+Chúng tôi đáng tin cậy và trung thành.
+Chúng tôi cam kết trở nên tốt nhất có thể.
+
+Cải tiến
+Chúng tôi tham vọng và có khả năng thích nghi.
+Chúng tôi đón đầu các cơ hội và thử thách phía trước với khát vọng luôn luôn cải tiến để trở nên tốt hơn.
+
+Chủ động
+Chúng tôi được trao quyền để hành động và giải quyết vấn đề nhanh chóng.
+Chúng tôi quyết đoán.
+Chúng tôi luôn hướng về phía trước.
+
+Cởi mở
+Chúng tôi chia sẻ kiến thức và cởi mở với tư duy làm việc mới.
+Chúng tôi đưa ra quyết định đúng đắn với sự cân nhắc hợp lý.
+
+Chăm sóc
+Chúng tôi luôn luôn đặt nhu cầu khách hàng lên hàng đầu thông qua việc quan tâm đến cuộc sống của khách hàng và hỗ trợ họ tìm được sản phẩm và dịch vụ phù hợp nhất với nhu cầu của mình.
+Chăm sóc đến từ khả năng nhìn mọi việc theo lăng kính của người khác.
 Thông tin chi tiết anh chị vui long tham khảo tại đây https://www.fwd.com.vn/vi/about-us/
 
+Thông tin đóng phí bảo hiểm như sau:
+Chuyển khoản nhanh thông thường vào tài khoản FWD tại ngân hàng Vietcombank & Agribank
+Sử dụng ngân hàng của Quý khách để chuyển khoản đóng phí. Quý khách vui lòng điền đầy đủ các thông tin sau:
+Chủ tài khoản: Công ty TNHH Bảo hiểm Nhân thọ FWD Việt Nam
+Nội dung thanh toán: [Số Hợp đồng/số Hồ sơ yêu cầu bảo hiểm] + [Họ và tên Bên mua bảo hiểm]
+Số tài khoản FWD và tên chi nhánh ngân hàng:
+Quý khách vui lòng chọn một trong các tài khoản bên dưới
++ Số tài khoản: 1212393939 tại VCB – Chi nhánh Tân Định Tp. HCM
++ Số tài khoản: 1900201453488 tại Agribank – Chi nhánh Trung tâm Sài Gòn
 
+Đóng phí trực tuyến
+Giải pháp đóng phí trực tuyến an toàn, tiện lợi và đơn giản.
+Quý khách có thể thanh toán phí bất kỳ lúc nào với 4 lựa chọn sau:
+Thẻ ATM nội địa
+Thẻ thanh toán quốc tế (Visa/MasterCard/JCB)
+Ví điện tử MoMo
+Cổng thanh toán VNPAY-QR (hình thức thanh toán kết nối tài khoản ngân hàng hoặc ví điện tử) link bên dưới: 
+https://portal.fwd.com.vn/eServices/payment/payment
 
+Nếu cần thêm thông tin hoặc được hỗ trợ kịp thời/nhanh chóng anh chị vui long liên hệ AD/ZD nhé ! 
+hoặc Hotline của FWD 1800969690
 
 
 Liên hệ Ngọc
