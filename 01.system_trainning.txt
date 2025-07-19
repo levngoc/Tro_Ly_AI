@@ -56,20 +56,60 @@ Thị trấn"	Số nhà, phố (*)	Ghi chú	Mã Chi nhánh	Hình thức học
 54	HCM-THILAI-ILP	07/07/2025	10/07/2025	8:00	Hồ Chí Minh (13)	Q. 3 (94)	P. 14 (4440)	Số 264B Lê Văn Sỹ	Phạm Quốc Cường 0911132119	FWD HCM	
 55	CTH-THILAI-ILP	09/07/2025	12/07/2025	8:00	Cần Thơ (82)	Q. Ninh Kiều (770)	P. An Hòa (1063)	Trường Cao đẳng Kinh tế Kỹ thuật Cần Thơ, Số 9 Cách Mạng Tháng Tám			
 
-Trong tháng 6 này còn lớp Shine nào nữa hay không?
-Trong tháng 6 này còn Lớp Miễn Thi nào nữa hay không?
-Trong tháng 6 này còn lớp Thi lại nữa không?
+Trong tháng 7 này còn lớp Shine nào nữa hay không?
+Trong tháng 7 này còn Lớp Miễn Thi nào nữa hay không?
+Trong tháng 7 này còn lớp Thi lại nữa không?
 
 Memo tuyển dụng trong tháng 7 và quý 3 này như thế nào ?
 Tuyển 1 người thưởng cho Quản lý 400k 
 Tuyển 02 người thì tính 800k/code 
-Tuyển 03 người trở lên mà co Active thì tính 1.2k/code 
-Có Active trên 10tr thưởng them 1 triệu/Active 
+Tuyển 03 người trở lên mà co Active thì tính 1.2tr/code 
 Nên hẫy tuyển từ 03 người trở lên & có Active 10tr để nhận 3.6tr nhé , anh/chị muốn tìm lớp chứ?
-Ngoài ra, Tư vấn mới Active trong 07 ngày (kể từ ngày cấp code) được thưởng : 
-+ HĐ> 10tr -> Thưởng 1 triệu đồng 
-Tư vấn mới Active trong 30 ngày đầu tiên -> được thưởng 2tr
-Hẫy hỗ trợ đại lý mới hoạt động nhanh trong vòng 7 ngày nhé anh chị . 
+Ngoài ra, Tư vấn mới Active (kể từ ngày cấp code) được thưởng : 
++ Tư vấn mới có HĐ >= 15tr trong 07 ngày đầu tiên -> được thưởng 2tr
++ Tư vấn mới có HĐ >=15tr trong 30 ngày đầu tiên -> được thưởng 1tr
+Hẫy hỗ trợ đại lý mới hoạt động nhanh trong vòng 07 ngày nhé anh chị . 
+
+Chương trình thi đua ra mắt sản phẩm bổ trợ mới: 
+TỔNG PHÍ QUY NĂM (APE) TRÊN MỖI HỢP ĐỒNG CÓ GẮN SPBS BỆNH HIỂM NGHÈO
++ TRÊN MỖI HĐBH Có APE ≥ 15 triệu -> Thưởng 700.000
++ TRÊN MỖI HĐBH Có APE ≥ 25 triệu -> Thưởng 7% x Phí bảo hiểm lần đầu (IP)
+
+Các memo dành riêng cho các anh chị quản lý (FWO/FWM/FWD) : 
+QUẢN LÝ TÀI BA HOẠT ĐỘNG HIỆU QUẢ (FWDVN/AS/0725-71)
+Thời gian 01/07/2025 – 30/08/2025
+TÍNH TRÊN SỐ LƯỢNG TVTC ĐẠT CHUẨN TRONG NHÓM TRỰC TIẾP TRONG MỖI THÁNG (ĐẶC BIỆT TVTC MỚI GIA NHẬP VÀ ĐẠT CHUẨN ĐƯỢC TÍNH NHÂN 2)
+ Đối tượng Cấp quản lý nhóm trực tiếp
+ THƯỞNG/THÁNG (VNĐ)
+ ≥ 3 -> 2.500.000
+ ≥ 5 -> 5.000.000
+ ≥ 7 -> 8.000.000
+ ≥ 10 -> 12.000.000
+Các lưu ý:
+ 1. TVTC đạt chuẩn là TVTC có ít nhất 1 HĐBH phát hành trong tháng. HĐBH này phải có tổng phí FYP từ 10 triệu VNĐ 
+trở lên và đã qua thời gian cân nhắc tại thời điểm chốt kết quả chính thức.
+ 2. Nhóm trực tiếp của cấp quản lý bao gồm bản thân cấp quản lý đang xét thi đua và các FWP báo cáo trực tiếp
+
+CHƯƠNG TRÌNH HUẤN LUYỆN ELITE QUÝ 3/2025 tại ĐÀ NẴNG (Memo: FWDVN/AS/0725-73)
+Thời gian thi đua: 01/07/2025 - 30/09/2025
+ĐỐI VỚI CÁ NHÂN: 
++ LỰA CHỌN 1: Tổng FYP thực đạt ≥ 38 triệu &  Số lượt đạt chuẩn của TVTC Mới được giới thiệu ≥ 3
++ LỰA CHỌN 2: Tổng FYP thực đạt ≥ 88 triệu &  Số lượt đạt chuẩn của TVTC Mới được giới thiệu ≥ 2 
+ĐỐI VỚI QUẢN LÝ NHÓM TRỰC TIẾP: 
+- Tổng FYP thực đạt ≥ 88 triệu &  Số lượt đạt chuẩn của TVTC Mới được giới thiệu ≥ 6
+- Hoặc, Tổng FYP thực đạt ≥ 168 triệu &  Số lượt đạt chuẩn của TVTC Mới được giới thiệu ≥ 4
+ĐỐI VỚI QUẢN LÝ TOÀN NHÓM:
+- Tổng FYP thực đạt ≥ 168 triệu &  Số lượt đạt chuẩn của TVTC Mới được giới thiệu ≥ 8
+- Hoặc, Tổng FYP thực đạt ≥ 268 triệu &  Số lượt đạt chuẩn của TVTC Mới được giới thiệu ≥ 6
+Thành phố đáng sống nhất Việt Nam đang chờ đón tất cả chúng ta nhé anh chị em ơi ! 
+
+NGHỊ ĐẲNG CẤP ELITE LEADER’S SUMMIT 2026 TẠI THÀNH ĐÔ – TRUNG QUỐC (Memo: FWDVN/AS/0725-72)
+Thời gian thi đua: 01/07/2025 - 30/11/2025
+TỔNG FYP NHÓM TRỰC TIẾP
+ SỐ TVTC MỚI TRONG NHÓM TRỰC TIẾP 
+TOP 20 Cấp quản lý FWO/FWM/FWD dẫn đầu tổng FYP nhóm trực tiếp có FYP ≥ 300tr + Số lượng TVTC cấp code ≥3 (bao gồm tái tuyển dụng) + K2≥60%
+Hẫy cùng nhau thi đua để cùng chu du khắp thế giới nhé anh chị quản lý ơi . 
+
 
 Chỉ tiêu đi Mỹ nay là bao nhiêu ?
 Chỉ cần 999tr FYP & 10 HĐ là đi Mỹ rồi nhé . (Trong đó được nhân đôi sản phẩm bổ trợ lên đến 100tr) . Rất tuyệt vời phải không anh chị, Hẫy cùng làm để năm sau mình đi Mỹ nhé anh chị . Anh chị chắc chắn làm được ! YOU CAN DO IT !
@@ -127,20 +167,6 @@ Mỗi TVTC gia nhập trong quý 2.2025 được tính : 2 điểm
 Mỗi TVTC Có HĐ từ 10tr FYP trong tháng được tính : 3 điểm
 Mỗi TVTC/CQL đạt trong phần tham gia cá nhân được tính : 05 điểm 
 Thái Lan là một đất nước xinh đẹp, Sôi động & Tất cả chúng ta sẽ cùng nhau đi Thái Lan nhé các anh chị & chương trình chỉ kéo dài đến hết tháng 6.2025 này thôi nhé !
-
-Các memo dành riêng cho các anh chị quản lý (FWO/FWM/FWD) : 
-QUẢN LÝ TÀI BA HOẠT ĐỘNG HIỆU QUẢ (FWDVN/AS/0425-33)
-Thời gian 01/04/2025 – 30/06/2025
-TÍNH TRÊN SỐ LƯỢNG TVTC ĐẠT CHUẨN TRONG NHÓM TRỰC TIẾP TRONG MỖI THÁNG
- Đối tượng Cấp quản lý nhóm trực tiếp
- THƯỞNG/THÁNG (VNĐ)
- ≥ 2 -> 1.500.000
- ≥ 4 -> 4.000.000
- ≥ 6 -> 8.000.000
-Các lưu ý:
- 1. TVTC đạt chuẩn là TVTC có ít nhất 1 HĐBH phát hành trong tháng. HĐBH này phải có tổng phí FYP từ 10 triệu VNĐ 
-trở lên và đã qua thời gian cân nhắc tại thời điểm chốt kết quả chính thức.
- 2. Nhóm trực tiếp của cấp quản lý bao gồm bản thân cấp quản lý đang xét thi đua và các FWP báo cáo trực tiếp
 
 Đầu mối liên hệ Team AA (Agency Administration)
  ➢Cấp Mã số TVTC/AD+ & Cấpquyềnsảnphẩm Nguyễn Huỳnh Lê Huynhle.nguyen@fwd.com 3048
