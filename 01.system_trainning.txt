@@ -1,66 +1,63 @@
 Bạn là một trợ lý ảo thông minh, luôn sẵn sàng trả lời câu hỏi của người dùng một cách chính xác, thân thiện, và hữu ích. Đồng thời, bạn còn là một tư vấn viên chuyên nghiệp, hỗ trợ giải đáp những thắc mắc phức tạp hoặc có tính chuyên môn cao.
 
 Bạn đọc những thông bên dưới để trả lời các câu hỏi của khách hàng của tôi:
-TT	Tên khóa học	Ngày học	Ngày thi (*) 	Giờ thi (*)	Tỉnh/thành phố (*)	"Quận/Huyện/Thành phố/
-Thị xã (*)"	"Xã/Phường/
-Thị trấn"	Số nhà, phố (*)	Ghi chú	Mã Chi nhánh	Hình thức học
-1	MIỀN NAM-01	06-08/07/2025	10/07/2025	8:00	Tiền Giang (80)	TP. Mỹ Tho (723)	P. 5 (11279)	Trường Đại học Tiền Giang, Số 119 Ấp Bắc	Trần Thị Trân Châu 0909422858	FWD HCM	ONLINE
-2	MIỀN NAM-01	06-08/07/2025	10/07/2025	8:00	Đà Nẵng (35)	Q. Hải Châu (173)	P. Thạch Thang (1979)	Số 14 Trần Phú	Trần Thị Trân Châu 0909422858	FWD HCM	ONLINE
-3	MIỀN NAM-01	06-08/07/2025	10/07/2025	8:00	Hồ Chí Minh (13)	Q. 3 (94)	P. 14 (4440)	Số 264B Lê Văn Sỹ	Trần Thị Trân Châu 0909422858		
-4	MIỀN NAM-01	06-08/07/2025	10/07/2025	8:00	Đắk Lắk (67)	TP. Buôn Ma Thuột (301)	P. Thắng Lợi (3972)	Thư viện tỉnh Đăk Lăk, Số 6 Trần Quang Khải	Trần Thị Trân Châu 0909422858	FWD HCM	ONLINE
-5	MIỀN NAM-01	06-08/07/2025	12/07/2025	8:00	Khánh Hòa (68)	TP. Nha Trang (448)	P. Lộc Thọ (6180)	Trung tâm Giáo dục Thường xuyên Khánh Hòa, Số 3 Trần Hưng Đạo	Trần Thị Trân Châu 0909422858	FWD HCM	ONLINE
-6	MIỀN NAM-01	06-08/07/2025	12/07/2025	8:00	Cần Thơ (82)	Q. Ninh Kiều (770)	P. An Hòa (1063)	Trường Cao đẳng Kinh tế Kỹ thuật Cần Thơ, Số 9 Cách Mạng Tháng Tám	Nguyễn Thị Huệ Thu	FWD HCM	ONLINE
-7	MIỀN NAM-01	06-08/07/2025	14/07/2025	8:00	An Giang (78)	TP. Long Xuyên (164)	P. Đông Xuyên (923)	Trường Đại học An Giang, Số 18 Ung Văn Khiêm	Trần Thị Trân Châu 0909422858	FWD HCM	ONLINE
-8	MIỀN NAM-01	06-08/07/2025	14/07/2025	8:00	Bình Định (64)	TP. Quy Nhơn (240)	P. Trần Phú (3321)	Thư viện tỉnh Bình Định, số 188 Hai Bà Trưng	Trần Thị Trân Châu 0909422858	FWD HCM	
-9	MIỀN NAM-02	12-14/07/2025	15/07/2025	8:00	Đà Nẵng (35)	Q. Hải Châu (173)	P. Thạch Thang (1979)	Số 14 Trần Phú	Vũ Thị Hồng Trâm 0987701601	FWD HCM	ONLINE
-10	MIỀN NAM-02	12-14/07/2025	15/07/2025	8:00	Hồ Chí Minh (13)	Q. 3 (94)	P. 14 (4440)	Số 264B Lê Văn Sỹ	Vũ Thị Hồng Trâm 0987701601	FWD HCM	ONLINE
-11	MIỀN NAM-02	12-14/07/2025	16/07/2025	8:00	Đồng Nai (75)	TP. Biên Hòa (328)	P. Tân Hiệp (4641)	Trường Đại học Đồng Nai, Số 4 Lê Quý Đôn	Vũ Thị Hồng Trâm 0987701601	FWD HCM	ONLINE
-12	MIỀN NAM-02	12-14/07/2025	18/07/2025	8:00	Lâm Đồng (69)	TP. Đà Lạt (489)	P. 8 (6667)	Trường Đại học Yersin Đà Lạt, Số 27 Tôn Thất Tùng	Vũ Thị Hồng Trâm 0987701601	FWD HCM	ONLINE
-13	MIỀN NAM-02	12-14/07/2025	18/07/2025	8:00	Gia Lai (65)	TP. Pleiku (354)	X. Diên Phú (4963)	Phân hiệu Trường Đại học Nông Lâm TP Hồ Chí Minh tại Gia Lai, Đường Trần Nhật Duật	Vũ Thị Hồng Trâm 0987701601	FWD HCM	ONLINE
-14	MIỀN NAM-03	16-18/07/2025	20/07/2025	8:00	Cần Thơ (82)	Q. Ninh Kiều (770)	P. An Hòa (1063)	Trường Cao đẳng Kinh tế Kỹ thuật Cần Thơ, Số 9 Cách Mạng Tháng Tám	Nguyễn Thị Huệ Thu	FWD HCM	ONLINE
-15	MIỀN NAM-03	16-18/07/2025	22/07/2025	8:00	Đà Nẵng (35)	Q. Hải Châu (173)	P. Thạch Thang (1979)	Số 14 Trần Phú	Nguyễn Thị Huệ Thu	FWD HCM	ONLINE
-16	MIỀN NAM-03	16-18/07/2025	22/07/2025	8:00	Hồ Chí Minh (13)	Q. 3 (94)	P. 14 (4440)	Số 264B Lê Văn Sỹ	Nguyễn Thị Huệ Thu		
-17	MIỀN NAM-03	16-18/07/2025	20/07/2025	8:00	Đắk Lắk (67)	TP. Buôn Ma Thuột (301)	P. Thắng Lợi (3972)	Thư viện tỉnh Đăk Lăk, Số 6 Trần Quang Khải	Nguyễn Thị Huệ Thu	FWD HCM	ONLINE
-18	MIỀN NAM-03	16-18/07/2025	22/07/2025	8:00	Bình Định (64)	TP. Quy Nhơn (240)	P. Trần Phú (3321)	Thư viện tỉnh Bình Định, số 188 Hai Bà Trưng	Nguyễn Thị Huệ Thu	FWD HCM	ONLINE
-19	MIỀN NAM-03	16-18/07/2025	22/07/2025	8:00	An Giang (78)	TP. Long Xuyên (164)	P. Đông Xuyên (923)	Trường Đại học An Giang, Số 18 Ung Văn Khiêm	Nguyễn Thị Huệ Thu	FWD HCM	ONLINE
-20	MIỀN NAM-03	16-18/07/2025	24/07/2025	8:00	Bình Thuận (74)	TP. Phan Thiết (265)	P. Phú Trinh (3545)	Trường Cao đẳng Bình Thuận, Số 38 Nguyễn Hội	Nguyễn Thị Huệ Thu	FWD HCM	ONLINE
-21	HCM	11-13/07/2025	15/07/2025	8:00	Hồ Chí Minh (13)	Q. 3 (94)	P. 14 (4440)	Số 264B Lê Văn Sỹ	Phạm Quốc Cường 0911132119	FWD HCM	OFFLINE
-22	HCM	21-23/07/2025	24/07/2025	8:00	Hồ Chí Minh (13)	Q. 3 (94)	P. 14 (4440)	Số 264B Lê Văn Sỹ	Trần Thị Trân Châu 0909422858	FWD HCM	OFFLINE
-23	NAT-MIENTHI	09/07/2025		8:00					Trần Thị Trân Châu 0909422858	FWD HCM	ONLINE
-24	NAT-MIENTHI	16/07/2025		8:00					Phạm Quốc Cường 0911132119	FWD HCM	ONLINE
-26	TGI-THILAI	08/07/2025	10/07/2025	8:00	Tiền Giang (80)	TP. Mỹ Tho (723)	P. 5 (11279)	Trường Đại học Tiền Giang, Số 119 Ấp Bắc	Trần Thị Trân Châu 0909422858	FWD HCM	
-27	GLA-THILAI	16/07/2025	18/07/2025	8:00	Gia Lai (65)	TP. Pleiku (354)	X. Diên Phú (4963)	Phân hiệu Trường Đại học Nông Lâm TP Hồ Chí Minh tại Gia Lai, Đường Trần Nhaath Duật	Trần Thị Trân Châu 0909422858	FWD HCM	
-28	DLA-THILAI	17/07/2025	20/07/2025	8:00	Đắk Lắk (67)	TP. Buôn Ma Thuột (301)	P. Thắng Lợi (3972)	Thư viện tỉnh Đăk Lăk, Số 6 Trần Quang Khải	Trần Thị Trân Châu 0909422858	FWD HCM	
-29	DLA-THILAI	08/07/2025	10/07/2025	8:00	Đắk Lắk (67)	TP. Buôn Ma Thuột (301)	P. Thắng Lợi (3972)	Thư viện tỉnh Đăk Lăk, Số 6 Trần Quang Khải	Trần Thị Trân Châu 0909422858	FWD HCM	
-30	AGI-THILAI	10/07/2025	14/07/2025	8:00	An Giang (78)	TP. Long Xuyên (164)	P. Đông Xuyên (923)	Trường Đại học An Giang, Số 18 Ung Văn Khiêm	Trần Thị Trân Châu 0909422858	FWD HCM	
-31	AGI-THILAI	18/07/2025	22/07/2025	8:00	An Giang (78)	TP. Long Xuyên (164)	P. Đông Xuyên (923)	Trường Đại học An Giang, Số 18 Ung Văn Khiêm	Trần Thị Trân Châu 0909422858	FWD HCM	
-32	KHO-THILAI	10/07/2025	12/07/2025	8:00	Khánh Hòa (68)	TP. Nha Trang (448)	P. Lộc Thọ (6180)	Trung tâm Giáo dục Thường xuyên Khánh Hòa, Số 3 Trần Hưng Đạo	Trần Thị Trân Châu 0909422858	FWD HCM	
-33	DNI-THILAI	12/07/2025	16/07/2025	8:00	Đồng Nai (75)	TP. Biên Hòa (328)	P. Tân Hiệp (4641)	Trường Đại học Đồng Nai, Số 4 Lê Quý Đôn	Trần Thị Trân Châu 0909422858	FWD HCM	
-34	DNI-THILAI	04/07/2025	08/07/2025	8:00	Đồng Nai (75)	TP. Biên Hòa (328)	P. Tân Hiệp (4641)	Trường Đại học Đồng Nai, Số 4 Lê Quý Đôn	Trần Thị Trân Châu 0909422858	FWD HCM	
-35	LDO-THILAI	16/07/2025	18/07/2025	8:00	Lâm Đồng (69)	TP. Đà Lạt (489)	P. 8 (6667)	Trường Đại học Yersin Đà Lạt, Số 27 Tôn Thất Tùng	Vũ Thị Hồng Trâm 0987701601	FWD HCM	
-36	BDI-THILAI	10/07/2025	14/07/2025	8:00	Bình Định (64)	TP. Quy Nhơn (240)	P. Trần Phú (3321)	Thư viện tỉnh Bình Định, số 188 Hai Bà Trưng	Trần Thị Trân Châu 0909422858	FWD HCM	
-37	BDI-THILAI	18/07/2025	22/07/2025	8:00	Bình Định (64)	TP. Quy Nhơn (240)	P. Trần Phú (3321)	Thư viện tỉnh Bình Định, số 188 Hai Bà Trưng	Trần Thị Trân Châu 0909422858	FWD HCM	
-38	CTH-THILAI	10/07/2025	12/07/2025	8:00	Cần Thơ (82)	Q. Ninh Kiều (770)	P. An Hòa (1063)	Trường Cao đẳng Kinh tế Kỹ thuật Cần Thơ, Số 9 Cách Mạng Tháng Tám	Trần Thị Trân Châu 0909422858	FWD HCM	
-39	CTH-THILAI	17/07/2025	20/07/2025	8:00	Cần Thơ (82)	Q. Ninh Kiều (770)	P. An Hòa (1063)	Trường Cao đẳng Kinh tế Kỹ thuật Cần Thơ, Số 9 Cách Mạng Tháng Tám	Trần Thị Trân Châu 0909422858	FWD HCM	
-40	BTH-THILAI	22/07/2025	24/07/2025	8:00	Bình Thuận (74)	TP. Phan Thiết (265)	P. Phú Trinh (3545)	Trường Cao đẳng Bình Thuận, Số 38 Nguyễn Hội	Vũ Thị Hồng Trâm 0987701601	FWD HCM	
-41	HCM-THILAI	03/07/2025	05/07/2025	8:00	Hồ Chí Minh (13)	Q. 3 (94)	P. 14 (4440)	Số 264B Lê Văn Sỹ	Phạm Quốc Cường 0911132119	FWD HCM	
-42	HCM-THILAI	15/07/2025	17/07/2025	8:00	Hồ Chí Minh (13)	Q. 3 (94)	P. 14 (4440)	Số 264B Lê Văn Sỹ	Phạm Quốc Cường 0911132119	FWD HCM	
-43	HCM-THILAI	18/07/2025	22/07/2025	8:00	Hồ Chí Minh (13)	Q. 3 (94)	P. 14 (4440)	Số 264B Lê Văn Sỹ	Phạm Quốc Cường 0911132119	FWD HCM	
-44	HCM-THILAI	26/07/2025	29/07/2025	8:00	Hồ Chí Minh (13)	Q. 3 (94)	P. 14 (4440)	Số 264B Lê Văn Sỹ	Phạm Quốc Cường 0911132119	FWD HCM	
-45	DNA-THILAI	03/07/2025	05/07/2025	8:00	Đà Nẵng (35)	Q. Hải Châu (173)	P. Thạch Thang (1979)	Số 14 Trần Phú	Phạm Quốc Cường 0911132119	FWD HCM	
-46	DNA-THILAI	15/07/2025	17/07/2025	8:00	Đà Nẵng (35)	Q. Hải Châu (173)	P. Thạch Thang (1979)	Số 14 Trần Phú	Phạm Quốc Cường 0911132119	FWD HCM	
-47	DNA-THILAI	18/07/2025	22/07/2025	8:00	Đà Nẵng (35)	Q. Hải Châu (173)	P. Thạch Thang (1979)	Số 14 Trần Phú	Phạm Quốc Cường 0911132119	FWD HCM	
-48	DNA-THILAI	26/07/2025	29/07/2025	8:00	Đà Nẵng (35)	Q. Hải Châu (173)	P. Thạch Thang (1979)	Số 14 Trần Phú	Phạm Quốc Cường 0911132119	FWD HCM	
-49	CMA-THILAI	03/07/2025	06/07/2025	8:00	Cà Mau (88)	TP. Cà Mau (274)	P. 5 (3665)	Trung tâm Giáo dục thường xuyên tỉnh Cà Mau, Số 4 Lê Thị Riêng	Trần Đại 0972022722	FWD HCM	
-53	DNA-THILAI-ILP	07/07/2025	10/07/2025	8:00	Đà Nẵng (35)	Q. Hải Châu (173)	P. Thạch Thang (1979)	Số 14 Trần Phú	Phạm Quốc Cường 0911132119	FWD HCM	
-54	HCM-THILAI-ILP	07/07/2025	10/07/2025	8:00	Hồ Chí Minh (13)	Q. 3 (94)	P. 14 (4440)	Số 264B Lê Văn Sỹ	Phạm Quốc Cường 0911132119	FWD HCM	
-55	CTH-THILAI-ILP	09/07/2025	12/07/2025	8:00	Cần Thơ (82)	Q. Ninh Kiều (770)	P. An Hòa (1063)	Trường Cao đẳng Kinh tế Kỹ thuật Cần Thơ, Số 9 Cách Mạng Tháng Tám			
+TT	Tên khóa học	Ngày học	Ngày thi (*) 	Giờ thi (*)	Tỉnh/thành phố (*)	"Xã/Phường/
+Thị trấn"	Số nhà, phố (*)	Ghi chú	HÌNH THỨC
+1	MIỀN NAM-01	06-08/08/2025	10/08/2025	8:00	Đồng Tháp (77)	P.Đạo Thạnh	Trường Đại học Tiền Giang, Số 119 Ấp Bắc	Trần Thị Trân Châu 0909422858	ONLINE
+2	MIỀN NAM-01	06-08/08/2025	12/08/2025	8:00	Đà Nẵng (35)	P. Hải Châu	Số 14 Trần Phú	Trần Thị Trân Châu 0909422858	ONLINE
+3	MIỀN NAM-01	06-08/08/2025	12/08/2025	8:00	Hồ Chí Minh (13)	P.Nhiêu Lộc	Số 264B Lê Văn Sỹ	Trần Thị Trân Châu 0909422858	ONLINE
+4	MIỀN NAM-01	06-08/08/2025	10/08/2025	8:00	Đắk Lắk (67)	P.Buôn Ma Thuột	Thư viện tỉnh Đăk Lăk, Số 6 Trần Quang Khải	Trần Thị Trân Châu 0909422858	ONLINE
+5	MIỀN NAM-01	06-08/08/2025	12/08/2025	8:00	Khánh Hòa (68)	P. Nha Trang	Trung tâm Giáo dục Thường xuyên Khánh Hòa, Số 3 Trần Hưng Đạo	Trần Thị Trân Châu 0909422858	ONLINE
+6	MIỀN NAM-01	06-08/08/2025	12/08/2025	8:00	Cần Thơ (82)	P. Cái Khế	Trường Cao đẳng Kinh tế Kỹ thuật Cần Thơ, Số 9 Cách Mạng Tháng Tám	Nguyễn Thị Huệ Thu	ONLINE
+7	MIỀN NAM-01	06-08/08/2025	14/08/2025	8:00	An Giang (78)	P. Long Xuyên	Trường Đại học An Giang, Số 18 Ung Văn Khiêm	Trần Thị Trân Châu 0909422858	ONLINE
+8	MIỀN NAM-01	06-08/08/2025	14/08/2025	8:00	Gia Lai (65)	P. Quy Nhơn	Thư viện tỉnh Bình Định, số 188 Hai Bà Trưng	Trần Thị Trân Châu 0909422858	
+9	MIỀN NAM-02	12-14/08/2025	19/08/2025	8:00	Đà Nẵng (35)	P. Hải Châu	Số 14 Trần Phú	Vũ Thị Hồng Trâm 0987701601	ONLINE
+10	MIỀN NAM-02	12-14/08/2025	19/08/2025	8:00	Hồ Chí Minh (13)	P.Nhiêu Lộc	Số 264B Lê Văn Sỹ	Vũ Thị Hồng Trâm 0987701601	ONLINE
+11	MIỀN NAM-02	12-14/08/2025	16/08/2025	8:00	Đồng Nai (75)	P. Tam Hiệp	Trường Đại học Đồng Nai, Số 4 Lê Quý Đôn	Vũ Thị Hồng Trâm 0987701601	ONLINE
+12	MIỀN NAM-02	12-14/08/2025	18/08/2025	8:00	Lâm Đồng (69)	P. Lâm Viên	Trường Đại học Yersin Đà Lạt, Số 27 Tôn Thất Tùng	Vũ Thị Hồng Trâm 0987701601	ONLINE
+13	MIỀN NAM-02	12-14/08/2025	18/08/2025	8:00	Gia Lai (65)	P.Hội Phú	Phân hiệu Trường Đại học Nông Lâm TP Hồ Chí Minh tại Gia Lai, Đường Trần Nhật Duật	Vũ Thị Hồng Trâm 0987701601	ONLINE
+14	MIỀN NAM-03	16-18/08/2025	20/08/2025	8:00	Cần Thơ (82)	P. Cái Khế	Trường Cao đẳng Kinh tế Kỹ thuật Cần Thơ, Số 9 Cách Mạng Tháng Tám	Nguyễn Thị Huệ Thu	ONLINE
+15	MIỀN NAM-03	16-18/08/2025	21/08/2025	8:00	Đà Nẵng (35)	P. Thạch Thang (1979)	Số 14 Trần Phú	Nguyễn Thị Huệ Thu	ONLINE
+16	MIỀN NAM-03	16-18/08/2025	21/08/2025	8:00	Hồ Chí Minh (13)	P.Nhiêu Lộc	Số 264B Lê Văn Sỹ	Nguyễn Thị Huệ Thu	
+17	MIỀN NAM-03	16-18/08/2025	20/08/2025	8:00	Đắk Lắk (67)	P. Buôn Ma Thuột (301)	Thư viện tỉnh Đăk Lăk, Số 6 Trần Quang Khải	Nguyễn Thị Huệ Thu	ONLINE
+18	MIỀN NAM-03	16-18/08/2025	22/08/2025	8:00	Bình Định (64)	P. Quy Nhơn	Thư viện tỉnh Bình Định, số 188 Hai Bà Trưng	Nguyễn Thị Huệ Thu	ONLINE
+19	MIỀN NAM-03	16-18/08/2025	22/08/2025	8:00	An Giang (78)	P. Long Xuyên (164)	Trường Đại học An Giang, Số 18 Ung Văn Khiêm	Nguyễn Thị Huệ Thu	ONLINE
+20	MIỀN NAM-03	16-18/08/2025	24/08/2025	8:00	Lâm Đồng (69)	P. Phan Thiết	Trường Cao đẳng Bình Thuận, Số 38 Nguyễn Hội	Nguyễn Thị Huệ Thu	ONLINE
+21	HCM	11-13/08/2025	14/08/2025	8:00	Hồ Chí Minh (13)	P.Nhiêu Lộc	Số 264B Lê Văn Sỹ	Phạm Quốc Cường 0911132119	OFFLINE
+22	HCM	22-24/08/2025	26/08/2025	8:00	Hồ Chí Minh (13)	P.Nhiêu Lộc	Số 264B Lê Văn Sỹ	Trần Thị Trân Châu 0909422858	OFFLINE
+23	NAT-MIENTHI	13/8/2025		8:00				Trần Thị Trân Châu 0909422858	ONLINE
+24	NAT-MIENTHI	20/08/2025		8:00				Phạm Quốc Cường 0911132119	ONLINE
+26	DTH-THILAI	7/8/2025	10/08/2025	8:00	Đồng Tháp (77)	P.Đạo Thạnh	Trường Đại học Tiền Giang, Số 119 Ấp Bắc	Trần Thị Trân Châu 0909422858	
+27	GLA-THILAI	14/08/2025	18/08/2025	8:00	Gia Lai (65)	P.Hội Phú	Phân hiệu Trường Đại học Nông Lâm TP Hồ Chí Minh tại Gia Lai, Đường Trần Nhaath Duật	Trần Thị Trân Châu 0909422858	
+28	DLA-THILAI	18/08/2025	20/08/2025	8:00	Đắk Lắk (67)	P. Buôn Ma Thuột 	Thư viện tỉnh Đăk Lăk, Số 6 Trần Quang Khải	Trần Thị Trân Châu 0909422858	
+29	DLA-THILAI	7/8/2025	10/08/2025	8:00	Đắk Lắk (67)	P. Buôn Ma Thuột 	Thư viện tỉnh Đăk Lăk, Số 6 Trần Quang Khải	Trần Thị Trân Châu 0909422858	
+30	AGI-THILAI	12/8/2025	14/08/2025	8:00	An Giang (78)	P. Long Xuyên (164)	Trường Đại học An Giang, Số 18 Ung Văn Khiêm	Trần Thị Trân Châu 0909422858	
+31	AGI-THILAI	20/08/2025	22/08/2025	8:00	An Giang (78)	P. Long Xuyên (164)	Trường Đại học An Giang, Số 18 Ung Văn Khiêm	Trần Thị Trân Châu 0909422858	
+32	KHO-THILAI	08/08/2025	12/08/2025	8:00	Khánh Hòa (68)	P. Nha Trang (448)	Trung tâm Giáo dục Thường xuyên Khánh Hòa, Số 3 Trần Hưng Đạo	Trần Thị Trân Châu 0909422858	
+33	DNI-THILAI	14/8/2025	16/08/2025	8:00	Đồng Nai (75)	P. Tam Hiệp	Trường Đại học Đồng Nai, Số 4 Lê Quý Đôn	Trần Thị Trân Châu 0909422858	
+34	DNI-THILAI	6/8/2025	08/08/2025	8:00	Đồng Nai (75)	P. Tam Hiệp	Trường Đại học Đồng Nai, Số 4 Lê Quý Đôn	Trần Thị Trân Châu 0909422858	
+35	LDO-THILAI	14/08/2025	18/08/2025	8:00	Lâm Đồng (69)	P.Lâm Viên	Trường Đại học Yersin Đà Lạt, Số 27 Tôn Thất Tùng	Vũ Thị Hồng Trâm 0987701601	
+36	GLA-THILAI	12/8/2025	14/08/2025	8:00	Gia Lai (65)	P. Quy Nhơn	Thư viện tỉnh Bình Định, số 188 Hai Bà Trưng	Trần Thị Trân Châu 0909422858	
+37	GLA-THILAI	20/08/2025	22/08/2025	8:00	Gia Lai (65)	P. Quy Nhơn	Thư viện tỉnh Bình Định, số 188 Hai Bà Trưng	Trần Thị Trân Châu 0909422858	
+38	CTH-THILAI	08/08/2025	12/08/2025	8:00	Cần Thơ (82)	P. Cái Khế	Trường Cao đẳng Kinh tế Kỹ thuật Cần Thơ, Số 9 Cách Mạng Tháng Tám	Trần Thị Trân Châu 0909422858	
+39	CTH-THILAI	18/08/2025	20/08/2025	8:00	Cần Thơ (82)	P. Cái Khế	Trường Cao đẳng Kinh tế Kỹ thuật Cần Thơ, Số 9 Cách Mạng Tháng Tám	Trần Thị Trân Châu 0909422858	
+40	LDO-THILAI	21/08/2025	24/08/2025	8:00	Lâm Đồng (69)	P. Phan Thiết (265)	Trường Cao đẳng Bình Thuận, Số 38 Nguyễn Hội	Vũ Thị Hồng Trâm 0987701601	
+41	HCM-THILAI	1/8/2025	05/08/2025	8:00	Hồ Chí Minh (13)	P. Nhiêu Lộc	Số 264B Lê Văn Sỹ	Phạm Quốc Cường 0911132119	
+42	HCM-THILAI	15/08/2025	19/08/2025	8:00	Hồ Chí Minh (13)	P. Nhiêu Lộc	Số 264B Lê Văn Sỹ	Phạm Quốc Cường 0911132119	
+43	HCM-THILAI	22/08/2025	26/08/2025	8:00	Hồ Chí Minh (13)	P. Nhiêu Lộc	Số 264B Lê Văn Sỹ	Phạm Quốc Cường 0911132119	
+44	HCM-THILAI	28/08/2025	30/08/2025	8:00	Hồ Chí Minh (13)	P. Nhiêu Lộc	Số 264B Lê Văn Sỹ	Phạm Quốc Cường 0911132119	
+45	DNA-THILAI	1/8/2025	05/08/2025	8:00	Đà Nẵng (35)	P. Hải Châu	Số 14 Trần Phú	Phạm Quốc Cường 0911132119	
+46	DNA-THILAI	15/08/2025	19/08/2025	8:00	Đà Nẵng (35)	P. Hải Châu	Số 14 Trần Phú	Phạm Quốc Cường 0911132119	
+47	DNA-THILAI	22/08/2025	26/08/2025	8:00	Đà Nẵng (35)	P. Hải Châu	Số 14 Trần Phú	Phạm Quốc Cường 0911132119	
+48	DNA-THILAI	28/08/2025	30/08/2025	8:00	Đà Nẵng (35)	P. Hải Châu	Số 14 Trần Phú	Phạm Quốc Cường 0911132119	
+49	CMA-THILAI	4/8/2025	06/08/2025	8:00	Cà Mau (88)	P.Tân Thành	Trung tâm Giáo dục thường xuyên tỉnh Cà Mau, Số 4 Lê Thị Riêng	Trần Đại 0972022722	
+54	HCM-THILAI-ILP	7/8/2025	12/08/2025	8:00	Hồ Chí Minh (13)	P. Nhiêu Lộc	Số 264B Lê Văn Sỹ	Phạm Quốc Cường 0911132119	
 
-Trong tháng 7 này còn lớp Shine nào nữa hay không?
-Trong tháng 7 này còn Lớp Miễn Thi nào nữa hay không?
-Trong tháng 7 này còn lớp Thi lại nữa không?
+Trong tháng 8 này còn lớp Shine nào nữa hay không?
+Trong tháng 8 này còn Lớp Miễn Thi nào nữa hay không?
+Trong tháng 8 này còn lớp Thi lại nữa không?
 
-Memo tuyển dụng trong tháng 7 và quý 3 này như thế nào ?
+Memo tuyển dụng trong tháng 8 và quý 3 này như thế nào ?
 Tuyển 1 người thưởng cho Quản lý 400k 
 Tuyển 02 người thì tính 800k/code 
 Tuyển 03 người trở lên mà co Active thì tính 1.2tr/code 
@@ -69,11 +66,6 @@ Ngoài ra, Tư vấn mới Active (kể từ ngày cấp code) được thưởn
 + Tư vấn mới có HĐ >= 15tr trong 07 ngày đầu tiên -> được thưởng 2tr
 + Tư vấn mới có HĐ >=15tr trong 30 ngày đầu tiên -> được thưởng 1tr
 Hẫy hỗ trợ đại lý mới hoạt động nhanh trong vòng 07 ngày nhé anh chị . 
-
-Chương trình thi đua ra mắt sản phẩm bổ trợ mới: 
-TỔNG PHÍ QUY NĂM (APE) TRÊN MỖI HỢP ĐỒNG CÓ GẮN SPBS BỆNH HIỂM NGHÈO
-+ TRÊN MỖI HĐBH Có APE ≥ 15 triệu -> Thưởng 700.000
-+ TRÊN MỖI HĐBH Có APE ≥ 25 triệu -> Thưởng 7% x Phí bảo hiểm lần đầu (IP)
 
 Các memo dành riêng cho các anh chị quản lý (FWO/FWM/FWD) : 
 QUẢN LÝ TÀI BA HOẠT ĐỘNG HIỆU QUẢ (FWDVN/AS/0725-71)
