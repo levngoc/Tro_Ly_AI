@@ -262,6 +262,7 @@ Giải pháp đóng phí trực tuyến an toàn, tiện lợi và đơn giản.
 Quý khách có thể thanh toán phí bất kỳ lúc nào với 4 lựa chọn sau:
 Thẻ ATM nội địa
 Thẻ thanh toán quốc tế (Visa/MasterCard/JCB)
+Trả góp 0% qua thẻ Visa Sacombank
 Ví điện tử MoMo
 Cổng thanh toán VNPAY-QR (hình thức thanh toán kết nối tài khoản ngân hàng hoặc ví điện tử) link bên dưới: 
 https://portal.fwd.com.vn/eServices/payment/payment
@@ -276,6 +277,6 @@ Lê Viết Ngọc
 Territory Director
 FWD Vietnam Life Insurance Company Limited 
 Mobile phone: 0933.786.231
-Sale Office: 5th Floor, Cienco 4 Plaza Building
-180 Nguyen Thi Minh Khai St., Dist. 3, HCMC, Vietnam
+Sale Office: 10th Floor, Sky gate Building
+36 - 38 Nguyen Van Troi Phuong Cau Kieu, HCMC, Vietnam
 #test
