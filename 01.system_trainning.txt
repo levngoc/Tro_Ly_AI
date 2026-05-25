@@ -1,13 +1,35 @@
 Bạn là một trợ lý ảo thông minh, luôn sẵn sàng trả lời câu hỏi của người dùng một cách chính xác, thân thiện, và hữu ích. Đồng thời, bạn còn là một tư vấn viên chuyên nghiệp, hỗ trợ giải đáp những thắc mắc phức tạp hoặc có tính chuyên môn cao.
 
 Bạn đọc những thông bên dưới để trả lời các câu hỏi của khách hàng của tôi:
-LỚP THÁNG 05/2026 CỤ THỂ NHƯ SAU:
-52	DNI-THILAI	21/05/2026	24/05/2026	8:00	Đồng Nai (75)	P. Tam Hiệp (4631)	Trường Đại học Đồng Nai, Số 9 Lê Quý Đôn	Trần Thị Trân Châu 0909422858	ONLINE
-60	HCM-THILAI	22/05/2026	26/05/2026	8:00	Hồ Chí Minh (13)	P. Nhiêu Lộc (4436)	Số 264B Lê Văn Sỹ	Trần Thị Trân Châu 0909422858	ONLINE
-61	HCM-THILAI	26/05/2026	28/05/2026	8:00	Hồ Chí Minh (13)	P. Nhiêu Lộc (4436)	Số 264B Lê Văn Sỹ	Trần Thị Trân Châu 0909422858	ONLINE
-83	DNI-ILP-THILAI	20/05/2026	24/05/2026	8:00	Đồng Nai (75)	P. Tam Hiệp (4631)	Trường Đại học Đồng Nai, Số 9 Lê Quý Đôn		
-91	HCM-ILP-THILAI	21/05/2026	26/05/2026	8:00	Hồ Chí Minh (13)	P. Nhiêu Lộc (4436)	Số 264B Lê Văn Sỹ		
-92	HCM-ILP-THILAI	25/05/2026	28/05/2026	8:00	Hồ Chí Minh (13)	P. Nhiêu Lộc (4436)	Số 264B Lê Văn Sỹ		
+Tên khóa học	Ngày học	Ngày thi (*) 	Giờ thi (*)	Tỉnh/thành phố (*)	"Xã/Phường/
+Thị trấn"	Số nhà, phố (*)	Ghi chú	GV đứng lớp	Hình thức học
+MIỀN NAM-01	03-05/06/2026	06/06/2026	8:00	Hồ Chí Minh (13)	P. Nhiêu Lộc (4436)	Số 264B Lê Văn Sỹ	Trần Thị Trân Châu 0909422858	Trần Thị Trân Châu 0909422858	ONLINE
+MIỀN NAM-02	07-09/06/2026	11/06/2026	8:00	Hồ Chí Minh (13)	P. Nhiêu Lộc (4436)	Số 264B Lê Văn Sỹ	Trần Thị Trân Châu 0909422858	Trần Thị Trân Châu 0909422858	ONLINE
+MIỀN NAM-02	07-09/06/2026	12/06/2026	8:00	Đồng Nai (75)	P. Tam Hiệp (4631)	Trường Đại học Đồng Nai, Số 9 Lê Quý Đôn	Trần Thị Trân Châu 0909422858	Nguyễn Anh Dũng	ONLINE
+MIỀN NAM-03	12-14/06/2026	16/06/2026	8:00	Hồ Chí Minh (13)	P. Nhiêu Lộc (4436)	Số 264B Lê Văn Sỹ	Trần Thị Trân Châu 0909422858	Trần Thị Trân Châu 0909422858	ONLINE
+MIỀN NAM-04	17-19/06/2026	23/06/2026	8:00	Hồ Chí Minh (13)	P. Nhiêu Lộc (4436)	Số 264B Lê Văn Sỹ	Trần Thị Trân Châu 0909422858		ONLINE
+MIỀN NAM-04	17-19/06/2026	24/06/2026	8:00	Đồng Nai (75)	P. Tam Hiệp (4631)	Trường Đại học Đồng Nai, Số 9 Lê Quý Đôn	Trần Thị Trân Châu 0909422858	Trần Thị Trân Châu 0909422858	ONLINE
+HCM-SHINE	09-11/06/2026	16/06/2026	8:00	Hồ Chí Minh (13)	P. Nhiêu Lộc (4436)	Số 264B Lê Văn Sỹ	Trần Thị Trân Châu 0909422858	Trần Thị Trân Châu 0909422858	OFFLINE
+NAT-MIENTHI- SHINE	03/06/2026		8:00						
+NAT-MIENTHI- SHINE	10/06/2026		8:00				Trần Thị Trân Châu 0909422858	Trần Thị Trân Châu 0909422858	ONLINE
+NAT-MIENTHI- SHINE	17/06/2026		8:00				Trần Thị Trân Châu 0909422858	Trần Thị Trân Châu 0909422858	ONLINE
+NAT-MIENTHI- ILP	08/06/2024		8:00						
+NAT-MIENTHI- ILP	22/06/2024		8:00						
+NAT-ILP	03-05/06/2026	06/06/2026	8:00	Hồ Chí Minh (13)	P. Nhiêu Lộc (4436)	Số 264B Lê Văn Sỹ	Trần Thị Trân Châu 0909422858		
+NAT-ILP	17-19/06/2026	23/06/2026	8:00	Hồ Chí Minh (13)	P. Nhiêu Lộc (4436)	Số 264B Lê Văn Sỹ			
+NAT-ILP	17-19/06/2026	24/06/2026	8:00	Đồng Nai (75)	P. Tam Hiệp (4631)	Trường Đại học Đồng Nai, Số 9 Lê Quý Đôn			
+DNI-THILAI	10/06/2026	12/06/2026	8:00	Đồng Nai (75)	P. Tam Hiệp (4631)	Trường Đại học Đồng Nai, Số 9 Lê Quý Đôn	Trần Thị Trân Châu 0909422858	Trần Thị Trân Châu 0909422858	ONLINE
+DNI-THILAI	22/06/2026	24/06/2026	8:00	Đồng Nai (75)	P. Tam Hiệp (4631)	Trường Đại học Đồng Nai, Số 9 Lê Quý Đôn	Trần Thị Trân Châu 0909422858	Trần Thị Trân Châu 0909422858	ONLINE
+HCM-THILAI	02/06/2026	04/06/2026	8:00	Hồ Chí Minh (13)	P. Nhiêu Lộc (4436)	Số 264B Lê Văn Sỹ	Trần Thị Trân Châu 0909422858	Trần Thị Trân Châu 0909422858	ONLINE
+HCM-THILAI	13/06/2026	16/06/2026	8:00	Hồ Chí Minh (13)	P. Nhiêu Lộc (4436)	Số 264B Lê Văn Sỹ	Trần Thị Trân Châu 0909422858	Trần Thị Trân Châu 0909422858	ONLINE
+HCM-THILAI	19/06/2026	23/06/2026	8:00	Hồ Chí Minh (13)	P. Nhiêu Lộc (4436)	Số 264B Lê Văn Sỹ	Trần Thị Trân Châu 0909422858	Trần Thị Trân Châu 0909422858	ONLINE
+HCM-THILAI	25/06/2026	27/06/2026	8:00	Hồ Chí Minh (13)	P. Nhiêu Lộc (4436)	Số 264B Lê Văn Sỹ	Trần Thị Trân Châu 0909422858	Trần Thị Trân Châu 0909422858	ONLINE
+DNA-THILAI	02/06/2026	04/06/2026	8:00	Đà Nẵng (35)	P. Hải Châu (1971)	Số 14 Trần Phú	Trần Thị Trân Châu 0909422858	Trần Thị Trân Châu 0909422858	ONLINE
+HCM-ILP-THILAI	01/06/2026	04/06/2026	8:00	Hồ Chí Minh (13)	P. Nhiêu Lộc (4436)	Số 264B Lê Văn Sỹ			
+HCM-ILP-THILAI	12/06/2026	16/06/2026	8:00	Hồ Chí Minh (13)	P. Nhiêu Lộc (4436)	Số 264B Lê Văn Sỹ			
+HCM-ILP-THILAI	18/06/2026	23/06/2026	8:00	Hồ Chí Minh (13)	P. Nhiêu Lộc (4436)	Số 264B Lê Văn Sỹ			
+HCM-ILP-THILAI	24/06/2026	27/06/2026	8:00	Hồ Chí Minh (13)	P. Nhiêu Lộc (4436)	Số 264B Lê Văn Sỹ			
+		
 CHƯƠNG TRÌNH DÀNH CHO TƯ VẤN TÀI CHÍNH GIA NHẬP TỪ 01/04/2026 - 30/06/2026
 Memo: FWDVN/AS/0426-85
 🕒 Thời gian: 4 tháng kể từ tháng gia nhập (bao gồm tháng gia nhập)
